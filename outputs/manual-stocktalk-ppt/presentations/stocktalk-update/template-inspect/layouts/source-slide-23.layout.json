@@ -1,0 +1,1427 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/crmhk3q5",
+    "id": "crmhk3q5",
+    "slide": 24,
+    "layoutId": "/ppt/slideLayouts/slideLayout1.xml",
+    "layoutName": "DEFAULT",
+    "layoutType": "tx",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "backgroundColor": "#0F1629",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 960,
+      "height": 540
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Office Theme",
+    "colors": {
+      "accent1": "#4472C4",
+      "accent2": "#ED7D31",
+      "accent3": "#A5A5A5",
+      "accent4": "#FFC000",
+      "accent5": "#5B9BD5",
+      "accent6": "#70AD47",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#A7A7A7",
+      "lt2": "#535353",
+      "hlink": "#0000FF",
+      "folHlink": "#FF00FF"
+    },
+    "fontScheme": {
+      "name": "Office Theme",
+      "majorFont": {
+        "latinTypeface": "Helvetica",
+        "eastAsianTypeface": "Helvetica",
+        "complexScriptTypeface": "Helvetica"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri",
+        "eastAsianTypeface": "Calibri",
+        "complexScriptTypeface": "Calibri"
+      }
+    },
+    "typefaces": [
+      "Calibri",
+      "Helvetica"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout1.xml",
+      "name": "DEFAULT",
+      "type": "tx",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout1.xml/11",
+          "id": "11",
+          "name": "Slide Number",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "geometry": "rect"
+        }
+      ]
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "backgroundColor": "#FFFFFF",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/2",
+          "id": "2",
+          "name": "Title Text",
+          "bbox": [
+            143.83,
+            60.62,
+            768,
+            131.38
+          ],
+          "geometry": "rect",
+          "text": "Title Text",
+          "textPreview": "Title Text",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 4.8,
+              "bottom": 4.8,
+              "left": 4.8
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Title Text",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Title Text"
+                }
+              ]
+            }
+          ],
+          "lineWidth": 1.33
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/3",
+          "id": "3",
+          "name": "Body Level One…",
+          "bbox": [
+            535.83,
+            192,
+            376,
+            348
+          ],
+          "geometry": "rect",
+          "text": "Body Level One\nBody Level Two\nBody Level Three\nBody Level Four\nBody Level Five",
+          "textPreview": "Body Level One | Body Level Two | Body Level Three | Body Level Four | Body Level Five",
+          "resolvedTextStyle": {
+            "insets": {
+              "top": 4.8,
+              "right": 4.8,
+              "bottom": 4.8,
+              "left": 4.8
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Body Level One",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Body Level One"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "Body Level Two",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Body Level Two"
+                }
+              ]
+            },
+            {
+              "index": 3,
+              "text": "Body Level Three",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Body Level Three"
+                }
+              ]
+            },
+            {
+              "index": 4,
+              "text": "Body Level Four",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Body Level Four"
+                }
+              ]
+            },
+            {
+              "index": 5,
+              "text": "Body Level Five",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Body Level Five"
+                }
+              ]
+            }
+          ],
+          "lineWidth": 1.33
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/4",
+          "id": "4",
+          "name": "Slide Number",
+          "bbox": [
+            660.85,
+            487.47,
+            27.15,
+            26.07
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "verticalAlignment": "middle",
+            "wrap": "none",
+            "autoFit": "resizeShapeToFitText",
+            "insets": {
+              "top": 4.8,
+              "right": 4.8,
+              "bottom": 4.8,
+              "left": 4.8
+            }
+          },
+          "lineWidth": 1.33
+        }
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/032lszqt",
+      "id": "379",
+      "name": "Shape 0",
+      "bbox": [
+        0,
+        0,
+        960,
+        62.4
+      ],
+      "geometry": "rect",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "right",
+        "textTransform": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 4.8,
+          "bottom": 4.8,
+          "left": 4.8
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#0A0E1A",
+      "lineWidth": 1.33
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/47y1kre1",
+      "id": "380",
+      "name": "Shape 1",
+      "bbox": [
+        0,
+        0,
+        6.72,
+        62.4
+      ],
+      "geometry": "rect",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "right",
+        "textTransform": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 4.8,
+          "bottom": 4.8,
+          "left": 4.8
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#00D4AA",
+      "lineWidth": 1.33
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/tsvu9kni",
+      "id": "381",
+      "name": "Text Title",
+      "bbox": [
+        24,
+        15.77,
+        768,
+        30.86
+      ],
+      "geometry": "rect",
+      "text": "Methodologies Used",
+      "textPreview": "Methodologies Used",
+      "resolvedFontSize": 29.33,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 29.33,
+        "typeface": "Calibri",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "right",
+        "verticalAlignment": "middle",
+        "textTransform": "none",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Methodologies Used"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Methodologies Used",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Methodologies Used"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0,
+          "indent": 0,
+          "lineSpacingPercent": 100000,
+          "spaceBefore": 0,
+          "spaceAfter": 0
+        }
+      ],
+      "lineWidth": 1.33
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/m1cfa9w3",
+      "id": "382",
+      "name": "Text Sub",
+      "bbox": [
+        792,
+        21.83,
+        153.6,
+        21.62
+      ],
+      "geometry": "rect",
+      "text": "Stock Talk",
+      "textPreview": "Stock Talk",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 12,
+        "typeface": "Calibri",
+        "color": "#00D4AA",
+        "italic": true,
+        "alignment": "right",
+        "verticalAlignment": "middle",
+        "textTransform": "none",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 4.8,
+          "bottom": 4.8,
+          "left": 4.8
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Stock Talk"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Stock Talk",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Stock Talk"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0,
+          "indent": 0,
+          "lineSpacingPercent": 100000,
+          "spaceBefore": 0,
+          "spaceAfter": 0
+        }
+      ],
+      "lineWidth": 1.33
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bm58z25k",
+      "id": "383",
+      "name": "Rectangle",
+      "bbox": [
+        24,
+        72.44,
+        443.97,
+        117.59
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "textTransform": "none",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 4.8,
+          "bottom": 4.8,
+          "left": 4.8
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          },
+          {
+            "index": 2,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#0A1628",
+      "lineColor": "#00D4AA",
+      "lineWidth": 2
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4vmtwra5",
+      "id": "384",
+      "name": "01 Prompt Engineering…",
+      "bbox": [
+        25,
+        73.44,
+        441.97,
+        87.22
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "01 Prompt Engineering\nStructured system prompts instruct Gemini 2.0 Flash to produce valid, executable Python for stock analysis. Few-shot examples embedded in prompts guide the LLM toward consistent, accurate code output.",
+      "textPreview": "01 Prompt Engineering | Structured system prompts instruct Gemini 2.0 Flash to produce valid, executable Python for stock analysis. Few-s...",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "textTransform": "none",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 9.6,
+          "right": 9.6,
+          "bottom": 9.6,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 5,
+        "lines": [
+          {
+            "index": 1,
+            "text": "01 Prompt Engineering"
+          },
+          {
+            "index": 2,
+            "text": ""
+          },
+          {
+            "index": 3,
+            "text": "Structured system prompts instruct Gemini 2.0 Flash to produce valid,"
+          },
+          {
+            "index": 4,
+            "text": "executable Python for stock analysis. Few-shot examples embedded in"
+          },
+          {
+            "index": 5,
+            "text": "prompts guide the LLM toward consistent, accurate code output."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "01 Prompt Engineering",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Calibri",
+            "color": "#00D4AA",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "01 Prompt Engineering",
+              "fontSize": 16,
+              "typeface": "Calibri",
+              "color": "#00D4AA",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0,
+          "indent": 0,
+          "lineSpacingPercent": 100000,
+          "spaceBefore": 0,
+          "spaceAfter": 0
+        },
+        {
+          "index": 2,
+          "text": "Structured system prompts instruct Gemini 2.0 Flash to produce valid, executable Python for stock analysis. Few-shot examples embedded in prompts guide the LLM toward consistent, accurate code output.",
+          "spaceBefore": 500,
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "Calibri",
+            "color": "#B0BEC5"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Structured system prompts instruct Gemini 2.0 Flash to produce valid, executable Python for stock analysis. Few-shot examples embedded in prompts guide the LLM toward consistent, accurate code output.",
+              "fontSize": 12,
+              "typeface": "Calibri",
+              "color": "#B0BEC5"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0,
+          "indent": 0,
+          "lineSpacingPercent": 100000,
+          "spaceAfter": 0
+        }
+      ],
+      "lineWidth": 1.33
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mp0bi9s3",
+      "id": "386",
+      "name": "Rectangle",
+      "bbox": [
+        492.03,
+        72.44,
+        443.97,
+        117.59
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "textTransform": "none",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 4.8,
+          "bottom": 4.8,
+          "left": 4.8
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          },
+          {
+            "index": 2,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#0A1628",
+      "lineColor": "#F5A623",
+      "lineWidth": 2
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bat47y1k",
+      "id": "387",
+      "name": "02 Conversational Memory…",
+      "bbox": [
+        493.03,
+        73.44,
+        441.97,
+        87.22
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "02 Conversational Memory\nRedis stores per-session chat history as a key-value pair, enabling multi-turn conversations. LangChain’s ConversationBufferMemory wraps Redis to maintain context across API calls seamlessly.",
+      "textPreview": "02 Conversational Memory | Redis stores per-session chat history as a key-value pair, enabling multi-turn conversations. LangChain’s Conv...",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "textTransform": "none",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 9.6,
+          "right": 9.6,
+          "bottom": 9.6,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 5,
+        "lines": [
+          {
+            "index": 1,
+            "text": "02 Conversational Memory"
+          },
+          {
+            "index": 2,
+            "text": ""
+          },
+          {
+            "index": 3,
+            "text": "Redis stores per-session chat history as a key-value pair, enabling multi-turn"
+          },
+          {
+            "index": 4,
+            "text": "conversations. LangChain’s ConversationBufferMemory wraps Redis to"
+          },
+          {
+            "index": 5,
+            "text": "maintain context across API calls seamlessly."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "02 Conversational Memory",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Calibri",
+            "color": "#F5A623",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "02 Conversational Memory",
+              "fontSize": 16,
+              "typeface": "Calibri",
+              "color": "#F5A623",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0,
+          "indent": 0,
+          "lineSpacingPercent": 100000,
+          "spaceBefore": 0,
+          "spaceAfter": 0
+        },
+        {
+          "index": 2,
+          "text": "Redis stores per-session chat history as a key-value pair, enabling multi-turn conversations. LangChain’s ConversationBufferMemory wraps Redis to maintain context across API calls seamlessly.",
+          "spaceBefore": 500,
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "Calibri",
+            "color": "#B0BEC5"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Redis stores per-session chat history as a key-value pair, enabling multi-turn conversations. LangChain’s ConversationBufferMemory wraps Redis to maintain context across API calls seamlessly.",
+              "fontSize": 12,
+              "typeface": "Calibri",
+              "color": "#B0BEC5"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0,
+          "indent": 0,
+          "lineSpacingPercent": 100000,
+          "spaceAfter": 0
+        }
+      ],
+      "lineWidth": 1.33
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/t83itgfm",
+      "id": "389",
+      "name": "Rectangle",
+      "bbox": [
+        24,
+        200.52,
+        443.97,
+        117.59
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "textTransform": "none",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 4.8,
+          "bottom": 4.8,
+          "left": 4.8
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          },
+          {
+            "index": 2,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#0A1628",
+      "lineColor": "#00D4AA",
+      "lineWidth": 2
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/nyd0z610",
+      "id": "390",
+      "name": "03 Dynamic Code Generation…",
+      "bbox": [
+        25,
+        201.52,
+        441.97,
+        87.22
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "03 Dynamic Code Generation\nGemini generates Matplotlib Python code on the fly in response to each query. The code is sanitized, executed in a controlled subprocess, and the resulting chart is returned to the client as base64.",
+      "textPreview": "03 Dynamic Code Generation | Gemini generates Matplotlib Python code on the fly in response to each query. The code is sanitized, execute...",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "textTransform": "none",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 9.6,
+          "right": 9.6,
+          "bottom": 9.6,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 5,
+        "lines": [
+          {
+            "index": 1,
+            "text": "03 Dynamic Code Generation"
+          },
+          {
+            "index": 2,
+            "text": ""
+          },
+          {
+            "index": 3,
+            "text": "Gemini generates Matplotlib Python code on the fly in response to each query."
+          },
+          {
+            "index": 4,
+            "text": "The code is sanitized, executed in a controlled subprocess, and the resulting"
+          },
+          {
+            "index": 5,
+            "text": "chart is returned to the client as base64."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "03 Dynamic Code Generation",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Calibri",
+            "color": "#00D4AA",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "03 Dynamic Code Generation",
+              "fontSize": 16,
+              "typeface": "Calibri",
+              "color": "#00D4AA",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0,
+          "indent": 0,
+          "lineSpacingPercent": 100000,
+          "spaceBefore": 0,
+          "spaceAfter": 0
+        },
+        {
+          "index": 2,
+          "text": "Gemini generates Matplotlib Python code on the fly in response to each query. The code is sanitized, executed in a controlled subprocess, and the resulting chart is returned to the client as base64.",
+          "spaceBefore": 500,
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "Calibri",
+            "color": "#B0BEC5"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Gemini generates Matplotlib Python code on the fly in response to each query. The code is sanitized, executed in a controlled subprocess, and the resulting chart is returned to the client as base64.",
+              "fontSize": 12,
+              "typeface": "Calibri",
+              "color": "#B0BEC5"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0,
+          "indent": 0,
+          "lineSpacingPercent": 100000,
+          "spaceAfter": 0
+        }
+      ],
+      "lineWidth": 1.33
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/54zidony",
+      "id": "392",
+      "name": "Rectangle",
+      "bbox": [
+        492.03,
+        200.52,
+        443.97,
+        117.59
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "textTransform": "none",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 4.8,
+          "bottom": 4.8,
+          "left": 4.8
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          },
+          {
+            "index": 2,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#0A1628",
+      "lineColor": "#F5A623",
+      "lineWidth": 2
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cj6tovah",
+      "id": "393",
+      "name": "04 REST API Design…",
+      "bbox": [
+        493.03,
+        201.52,
+        441.97,
+        87.22
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "04 REST API Design\nFastAPI exposes a stateless REST interface. Pydantic models enforce input validation. Async request handling allows concurrent query processing without blocking the LLM inference pipeline.",
+      "textPreview": "04 REST API Design | FastAPI exposes a stateless REST interface. Pydantic models enforce input validation. Async request handling allows ...",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "textTransform": "none",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 9.6,
+          "right": 9.6,
+          "bottom": 9.6,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 5,
+        "lines": [
+          {
+            "index": 1,
+            "text": "04 REST API Design"
+          },
+          {
+            "index": 2,
+            "text": ""
+          },
+          {
+            "index": 3,
+            "text": "FastAPI exposes a stateless REST interface. Pydantic models enforce input"
+          },
+          {
+            "index": 4,
+            "text": "validation. Async request handling allows concurrent query processing without"
+          },
+          {
+            "index": 5,
+            "text": "blocking the LLM inference pipeline."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "04 REST API Design",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Calibri",
+            "color": "#F5A623",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "04 REST API Design",
+              "fontSize": 16,
+              "typeface": "Calibri",
+              "color": "#F5A623",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0,
+          "indent": 0,
+          "lineSpacingPercent": 100000,
+          "spaceBefore": 0,
+          "spaceAfter": 0
+        },
+        {
+          "index": 2,
+          "text": "FastAPI exposes a stateless REST interface. Pydantic models enforce input validation. Async request handling allows concurrent query processing without blocking the LLM inference pipeline.",
+          "spaceBefore": 500,
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "Calibri",
+            "color": "#B0BEC5"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "FastAPI exposes a stateless REST interface. Pydantic models enforce input validation. Async request handling allows concurrent query processing without blocking the LLM inference pipeline.",
+              "fontSize": 12,
+              "typeface": "Calibri",
+              "color": "#B0BEC5"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0,
+          "indent": 0,
+          "lineSpacingPercent": 100000,
+          "spaceAfter": 0
+        }
+      ],
+      "lineWidth": 1.33
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/upwb2hwf",
+      "id": "395",
+      "name": "Rectangle",
+      "bbox": [
+        24,
+        328.61,
+        443.97,
+        117.59
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "textTransform": "none",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 4.8,
+          "bottom": 4.8,
+          "left": 4.8
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          },
+          {
+            "index": 2,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#0A1628",
+      "lineColor": "#00C853",
+      "lineWidth": 2
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5gbq1ory",
+      "id": "396",
+      "name": "05 Agile Development…",
+      "bbox": [
+        25,
+        329.61,
+        441.97,
+        87.22
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "05 Agile Development\nIterative sprints used to incrementally build features: basic query → chart output → context memory → comparison queries. Each iteration included testing against real stock ticker inputs.",
+      "textPreview": "05 Agile Development | Iterative sprints used to incrementally build features: basic query → chart output → context memory → comparison q...",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "textTransform": "none",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 9.6,
+          "right": 9.6,
+          "bottom": 9.6,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 5,
+        "lines": [
+          {
+            "index": 1,
+            "text": "05 Agile Development"
+          },
+          {
+            "index": 2,
+            "text": ""
+          },
+          {
+            "index": 3,
+            "text": "Iterative sprints used to incrementally build features: basic query → chart"
+          },
+          {
+            "index": 4,
+            "text": "output → context memory → comparison queries. Each iteration included"
+          },
+          {
+            "index": 5,
+            "text": "testing against real stock ticker inputs."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "05 Agile Development",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Calibri",
+            "color": "#00C853",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "05 Agile Development",
+              "fontSize": 16,
+              "typeface": "Calibri",
+              "color": "#00C853",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0,
+          "indent": 0,
+          "lineSpacingPercent": 100000,
+          "spaceBefore": 0,
+          "spaceAfter": 0
+        },
+        {
+          "index": 2,
+          "text": "Iterative sprints used to incrementally build features: basic query → chart output → context memory → comparison queries. Each iteration included testing against real stock ticker inputs.",
+          "spaceBefore": 500,
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "Calibri",
+            "color": "#B0BEC5"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Iterative sprints used to incrementally build features: basic query → chart output → context memory → comparison queries. Each iteration included testing against real stock ticker inputs.",
+              "fontSize": 12,
+              "typeface": "Calibri",
+              "color": "#B0BEC5"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0,
+          "indent": 0,
+          "lineSpacingPercent": 100000,
+          "spaceAfter": 0
+        }
+      ],
+      "lineWidth": 1.33
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/jm1cfa9w",
+      "id": "398",
+      "name": "Rectangle",
+      "bbox": [
+        492.03,
+        328.61,
+        443.97,
+        117.59
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "textTransform": "none",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 4.8,
+          "bottom": 4.8,
+          "left": 4.8
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          },
+          {
+            "index": 2,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#0A1628",
+      "lineColor": "#00C853",
+      "lineWidth": 2
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/u18jqh0f",
+      "id": "399",
+      "name": "06 API-First Integration…",
+      "bbox": [
+        493.03,
+        329.61,
+        441.97,
+        87.22
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "06 API-First Integration\nAll external services (Gemini API, yfinance, Redis) integrated via well-defined API contracts, enabling easy component replacement and independent scaling of each service layer.",
+      "textPreview": "06 API-First Integration | All external services (Gemini API, yfinance, Redis) integrated via well-defined API contracts, enabling easy c...",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "textTransform": "none",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 9.6,
+          "right": 9.6,
+          "bottom": 9.6,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 5,
+        "lines": [
+          {
+            "index": 1,
+            "text": "06 API-First Integration"
+          },
+          {
+            "index": 2,
+            "text": ""
+          },
+          {
+            "index": 3,
+            "text": "All external services (Gemini API, yfinance, Redis) integrated via well-defined"
+          },
+          {
+            "index": 4,
+            "text": "API contracts, enabling easy component replacement and independent scaling"
+          },
+          {
+            "index": 5,
+            "text": "of each service layer."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "06 API-First Integration",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Calibri",
+            "color": "#00C853",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "06 API-First Integration",
+              "fontSize": 16,
+              "typeface": "Calibri",
+              "color": "#00C853",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0,
+          "indent": 0,
+          "lineSpacingPercent": 100000,
+          "spaceBefore": 0,
+          "spaceAfter": 0
+        },
+        {
+          "index": 2,
+          "text": "All external services (Gemini API, yfinance, Redis) integrated via well-defined API contracts, enabling easy component replacement and independent scaling of each service layer.",
+          "spaceBefore": 500,
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "Calibri",
+            "color": "#B0BEC5"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "All external services (Gemini API, yfinance, Redis) integrated via well-defined API contracts, enabling easy component replacement and independent scaling of each service layer.",
+              "fontSize": 12,
+              "typeface": "Calibri",
+              "color": "#B0BEC5"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0,
+          "indent": 0,
+          "lineSpacingPercent": 100000,
+          "spaceAfter": 0
+        }
+      ],
+      "lineWidth": 1.33
+    }
+  ],
+  "composeRuns": []
+}

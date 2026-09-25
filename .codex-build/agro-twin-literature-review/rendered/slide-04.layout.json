@@ -1,0 +1,1320 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/m6eyjg",
+    "id": "m6eyjg",
+    "slide": 4,
+    "layoutId": "28a17215-cbab-4a23-9791-b24616bf6510",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "0548c327-ca15-476f-9a30-4a54501f8635",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "+mn-lt"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "28a17215-cbab-4a23-9791-b24616bf6510",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "0548c327-ca15-476f-9a30-4a54501f8635",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "0548c327-ca15-476f-9a30-4a54501f8635",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/sf2hsrmt",
+      "id": "1",
+      "bbox": [
+        72,
+        34,
+        300,
+        24
+      ],
+      "geometry": "rect",
+      "text": "LITERATURE REVIEW",
+      "textPreview": "LITERATURE REVIEW",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "fontSize": 13,
+        "typeface": "+mn-lt",
+        "color": "#2F7D4A",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "LITERATURE REVIEW"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "LITERATURE REVIEW",
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "color": "#2F7D4A",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "LITERATURE REVIEW",
+              "fontSize": 13,
+              "color": "#2F7D4A",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ret0zml8",
+      "id": "2",
+      "bbox": [
+        72,
+        72,
+        1000,
+        88
+      ],
+      "geometry": "rect",
+      "text": "State of the art: twins create a field feedback loop",
+      "textPreview": "State of the art: twins create a field feedback loop",
+      "resolvedFontSize": 37,
+      "resolvedTextStyle": {
+        "fontSize": 37,
+        "typeface": "+mn-lt",
+        "color": "#0B0F0E",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "State of the art: twins create a field feedback loop"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "State of the art: twins create a field feedback loop",
+          "resolvedTextStyle": {
+            "fontSize": 37,
+            "color": "#0B0F0E",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "State of the art: twins create a field feedback loop",
+              "fontSize": 37,
+              "color": "#0B0F0E",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qdkzqh4n",
+      "id": "3",
+      "bbox": [
+        72,
+        158,
+        114,
+        5
+      ],
+      "geometry": "rect",
+      "fillColor": "#2F7D4A",
+      "lineColor": "#2F7D4A",
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5cbyxw32",
+      "id": "4",
+      "bbox": [
+        92,
+        258,
+        218,
+        190
+      ],
+      "geometry": "rect",
+      "fillColor": "#F4F6F1",
+      "lineColor": "#B8C2B5",
+      "lineWidth": 1
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4r2hormx",
+      "id": "5",
+      "bbox": [
+        114,
+        278,
+        60,
+        34
+      ],
+      "geometry": "rect",
+      "text": "01",
+      "textPreview": "01",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "+mn-lt",
+        "color": "#2F7D4A",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "01"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "01",
+          "resolvedTextStyle": {
+            "fontSize": 24,
+            "color": "#2F7D4A",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "01",
+              "fontSize": 24,
+              "color": "#2F7D4A",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3qtgvmlc",
+      "id": "6",
+      "bbox": [
+        114,
+        326,
+        174,
+        36
+      ],
+      "geometry": "rect",
+      "text": "Sense",
+      "textPreview": "Sense",
+      "resolvedFontSize": 27,
+      "resolvedTextStyle": {
+        "fontSize": 27,
+        "typeface": "+mn-lt",
+        "color": "#0B0F0E",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Sense"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Sense",
+          "resolvedTextStyle": {
+            "fontSize": 27,
+            "color": "#0B0F0E",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Sense",
+              "fontSize": 27,
+              "color": "#0B0F0E",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ip0zmh4r",
+      "id": "7",
+      "bbox": [
+        114,
+        378,
+        174,
+        78
+      ],
+      "geometry": "rect",
+      "text": "IoT sensors, weather feeds, remote imagery",
+      "textPreview": "IoT sensors, weather feeds, remote imagery",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "fontSize": 18,
+        "typeface": "+mn-lt",
+        "color": "#59645F",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "IoT sensors,"
+          },
+          {
+            "index": 2,
+            "text": "weather feeds,"
+          },
+          {
+            "index": 3,
+            "text": "remote imagery"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "IoT sensors, weather feeds, remote imagery",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "color": "#59645F"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "IoT sensors, weather feeds, remote imagery",
+              "fontSize": 18,
+              "color": "#59645F"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/horytc36",
+      "id": "8",
+      "bbox": [
+        322,
+        326,
+        36,
+        44
+      ],
+      "geometry": "rect",
+      "text": "→",
+      "textPreview": "→",
+      "resolvedFontSize": 38,
+      "resolvedTextStyle": {
+        "fontSize": 38,
+        "typeface": "+mn-lt",
+        "color": "#B8C2B5",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "→"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "→",
+          "resolvedTextStyle": {
+            "fontSize": 38,
+            "color": "#B8C2B5"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "→",
+              "fontSize": 38,
+              "color": "#B8C2B5"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gnihk7ml",
+      "id": "9",
+      "bbox": [
+        378,
+        258,
+        218,
+        190
+      ],
+      "geometry": "rect",
+      "fillColor": "#EAF3FF",
+      "lineColor": "#B8C2B5",
+      "lineWidth": 1
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/a18z6dwz",
+      "id": "10",
+      "bbox": [
+        400,
+        278,
+        60,
+        34
+      ],
+      "geometry": "rect",
+      "text": "02",
+      "textPreview": "02",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "+mn-lt",
+        "color": "#3D8DFF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "02"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "02",
+          "resolvedTextStyle": {
+            "fontSize": 24,
+            "color": "#3D8DFF",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "02",
+              "fontSize": 24,
+              "color": "#3D8DFF",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/b2h0zidk",
+      "id": "11",
+      "bbox": [
+        400,
+        326,
+        174,
+        36
+      ],
+      "geometry": "rect",
+      "text": "Model",
+      "textPreview": "Model",
+      "resolvedFontSize": 27,
+      "resolvedTextStyle": {
+        "fontSize": 27,
+        "typeface": "+mn-lt",
+        "color": "#0B0F0E",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Model"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Model",
+          "resolvedTextStyle": {
+            "fontSize": 27,
+            "color": "#0B0F0E",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Model",
+              "fontSize": 27,
+              "color": "#0B0F0E",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/c3a18nep",
+      "id": "12",
+      "bbox": [
+        400,
+        378,
+        174,
+        78
+      ],
+      "geometry": "rect",
+      "text": "Virtual field, crop growth, soil-water status",
+      "textPreview": "Virtual field, crop growth, soil-water status",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "fontSize": 18,
+        "typeface": "+mn-lt",
+        "color": "#59645F",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Virtual field, crop"
+          },
+          {
+            "index": 2,
+            "text": "growth, soil-water"
+          },
+          {
+            "index": 3,
+            "text": "status"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Virtual field, crop growth, soil-water status",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "color": "#59645F"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Virtual field, crop growth, soil-water status",
+              "fontSize": 18,
+              "color": "#59645F"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xoji1sva",
+      "id": "13",
+      "bbox": [
+        608,
+        326,
+        36,
+        44
+      ],
+      "geometry": "rect",
+      "text": "→",
+      "textPreview": "→",
+      "resolvedFontSize": 38,
+      "resolvedTextStyle": {
+        "fontSize": 38,
+        "typeface": "+mn-lt",
+        "color": "#B8C2B5",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "→"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "→",
+          "resolvedTextStyle": {
+            "fontSize": 38,
+            "color": "#B8C2B5"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "→",
+              "fontSize": 38,
+              "color": "#B8C2B5"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2x8z2dwn",
+      "id": "14",
+      "bbox": [
+        664,
+        258,
+        218,
+        190
+      ],
+      "geometry": "rect",
+      "fillColor": "#F4F6F1",
+      "lineColor": "#B8C2B5",
+      "lineWidth": 1
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3yh0bid8",
+      "id": "15",
+      "bbox": [
+        686,
+        278,
+        60,
+        34
+      ],
+      "geometry": "rect",
+      "text": "03",
+      "textPreview": "03",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "+mn-lt",
+        "color": "#2F7D4A",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "03"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "03",
+          "resolvedTextStyle": {
+            "fontSize": 24,
+            "color": "#2F7D4A",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "03",
+              "fontSize": 24,
+              "color": "#2F7D4A",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ozqh4net",
+      "id": "16",
+      "bbox": [
+        686,
+        326,
+        174,
+        36
+      ],
+      "geometry": "rect",
+      "text": "Predict",
+      "textPreview": "Predict",
+      "resolvedFontSize": 27,
+      "resolvedTextStyle": {
+        "fontSize": 27,
+        "typeface": "+mn-lt",
+        "color": "#0B0F0E",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Predict"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Predict",
+          "resolvedTextStyle": {
+            "fontSize": 27,
+            "color": "#0B0F0E",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Predict",
+              "fontSize": 27,
+              "color": "#0B0F0E",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/p0zix8ve",
+      "id": "17",
+      "bbox": [
+        686,
+        378,
+        174,
+        78
+      ],
+      "geometry": "rect",
+      "text": "ML risk estimates, yield trends, irrigation need",
+      "textPreview": "ML risk estimates, yield trends, irrigation need",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "fontSize": 18,
+        "typeface": "+mn-lt",
+        "color": "#59645F",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "ML risk estimates,"
+          },
+          {
+            "index": 2,
+            "text": "yield trends,"
+          },
+          {
+            "index": 3,
+            "text": "irrigation need"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "ML risk estimates, yield trends, irrigation need",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "color": "#59645F"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "ML risk estimates, yield trends, irrigation need",
+              "fontSize": 18,
+              "color": "#59645F"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/etozytwr",
+      "id": "18",
+      "bbox": [
+        894,
+        326,
+        36,
+        44
+      ],
+      "geometry": "rect",
+      "text": "→",
+      "textPreview": "→",
+      "resolvedFontSize": 38,
+      "resolvedTextStyle": {
+        "fontSize": 38,
+        "typeface": "+mn-lt",
+        "color": "#B8C2B5",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "→"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "→",
+          "resolvedTextStyle": {
+            "fontSize": 38,
+            "color": "#B8C2B5"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "→",
+              "fontSize": 38,
+              "color": "#B8C2B5"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fux07ydc",
+      "id": "19",
+      "bbox": [
+        950,
+        258,
+        218,
+        190
+      ],
+      "geometry": "rect",
+      "fillColor": "#F4F6F1",
+      "lineColor": "#B8C2B5",
+      "lineWidth": 1
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/jedwzut4",
+      "id": "20",
+      "bbox": [
+        972,
+        278,
+        60,
+        34
+      ],
+      "geometry": "rect",
+      "text": "04",
+      "textPreview": "04",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "+mn-lt",
+        "color": "#2F7D4A",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "04"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "04",
+          "resolvedTextStyle": {
+            "fontSize": 24,
+            "color": "#2F7D4A",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "04",
+              "fontSize": 24,
+              "color": "#2F7D4A",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 21,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/id4f6pcj",
+      "id": "21",
+      "bbox": [
+        972,
+        326,
+        174,
+        36
+      ],
+      "geometry": "rect",
+      "text": "Act",
+      "textPreview": "Act",
+      "resolvedFontSize": 27,
+      "resolvedTextStyle": {
+        "fontSize": 27,
+        "typeface": "+mn-lt",
+        "color": "#0B0F0E",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Act"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Act",
+          "resolvedTextStyle": {
+            "fontSize": 27,
+            "color": "#0B0F0E",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Act",
+              "fontSize": 27,
+              "color": "#0B0F0E",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 22,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/50vy14bu",
+      "id": "22",
+      "bbox": [
+        972,
+        378,
+        174,
+        78
+      ],
+      "geometry": "rect",
+      "text": "Alerts, recommendations, adaptive planning",
+      "textPreview": "Alerts, recommendations, adaptive planning",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "fontSize": 18,
+        "typeface": "+mn-lt",
+        "color": "#59645F",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Alerts,"
+          },
+          {
+            "index": 2,
+            "text": "recommendations,"
+          },
+          {
+            "index": 3,
+            "text": "adaptive planning"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Alerts, recommendations, adaptive planning",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "color": "#59645F"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Alerts, recommendations, adaptive planning",
+              "fontSize": 18,
+              "color": "#59645F"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 23,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4zmx8zup",
+      "id": "23",
+      "bbox": [
+        112,
+        518,
+        1015,
+        60
+      ],
+      "geometry": "rect",
+      "text": "Digital twin literature emphasizes a feedback loop: the real farm updates the virtual model, and the model improves real-farm decisions.",
+      "textPreview": "Digital twin literature emphasizes a feedback loop: the real farm updates the virtual model, and the model improves real-farm decisions.",
+      "resolvedFontSize": 23,
+      "resolvedTextStyle": {
+        "fontSize": 23,
+        "typeface": "+mn-lt",
+        "color": "#0B0F0E",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Digital twin literature emphasizes a feedback loop: the real farm updates the virtual model, and"
+          },
+          {
+            "index": 2,
+            "text": "the model improves real-farm decisions."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Digital twin literature emphasizes a feedback loop: the real farm updates the virtual model, and the model improves real-farm decisions.",
+          "resolvedTextStyle": {
+            "fontSize": 23,
+            "color": "#0B0F0E"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Digital twin literature emphasizes a feedback loop: the real farm updates the virtual model, and the model improves real-farm decisions.",
+              "fontSize": 23,
+              "color": "#0B0F0E"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 24,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/r2dg3et0",
+      "id": "24",
+      "bbox": [
+        1078,
+        668,
+        130,
+        22
+      ],
+      "geometry": "rect",
+      "text": "Agro Twin | 4",
+      "textPreview": "Agro Twin | 4",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "fontSize": 13,
+        "typeface": "+mn-lt",
+        "color": "#59645F",
+        "alignment": "right",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Agro Twin | 4"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Agro Twin | 4",
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "color": "#59645F",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Agro Twin | 4",
+              "fontSize": 13,
+              "color": "#59645F",
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

@@ -1,0 +1,660 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/a1gvy90j",
+    "id": "a1gvy90j",
+    "slide": 30,
+    "layoutId": "/ppt/slideLayouts/slideLayout1.xml",
+    "layoutName": "DEFAULT",
+    "layoutType": "tx",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "backgroundColor": "#0F1629",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 960,
+      "height": 540
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Office Theme",
+    "colors": {
+      "accent1": "#4472C4",
+      "accent2": "#ED7D31",
+      "accent3": "#A5A5A5",
+      "accent4": "#FFC000",
+      "accent5": "#5B9BD5",
+      "accent6": "#70AD47",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#A7A7A7",
+      "lt2": "#535353",
+      "hlink": "#0000FF",
+      "folHlink": "#FF00FF"
+    },
+    "fontScheme": {
+      "name": "Office Theme",
+      "majorFont": {
+        "latinTypeface": "Helvetica",
+        "eastAsianTypeface": "Helvetica",
+        "complexScriptTypeface": "Helvetica"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri",
+        "eastAsianTypeface": "Calibri",
+        "complexScriptTypeface": "Calibri"
+      }
+    },
+    "typefaces": [
+      "Calibri",
+      "Helvetica"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout1.xml",
+      "name": "DEFAULT",
+      "type": "tx",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout1.xml/11",
+          "id": "11",
+          "name": "Slide Number",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "geometry": "rect"
+        }
+      ]
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "backgroundColor": "#FFFFFF",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/2",
+          "id": "2",
+          "name": "Title Text",
+          "bbox": [
+            143.83,
+            60.62,
+            768,
+            131.38
+          ],
+          "geometry": "rect",
+          "text": "Title Text",
+          "textPreview": "Title Text",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 4.8,
+              "bottom": 4.8,
+              "left": 4.8
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Title Text",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Title Text"
+                }
+              ]
+            }
+          ],
+          "lineWidth": 1.33
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/3",
+          "id": "3",
+          "name": "Body Level One…",
+          "bbox": [
+            535.83,
+            192,
+            376,
+            348
+          ],
+          "geometry": "rect",
+          "text": "Body Level One\nBody Level Two\nBody Level Three\nBody Level Four\nBody Level Five",
+          "textPreview": "Body Level One | Body Level Two | Body Level Three | Body Level Four | Body Level Five",
+          "resolvedTextStyle": {
+            "insets": {
+              "top": 4.8,
+              "right": 4.8,
+              "bottom": 4.8,
+              "left": 4.8
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Body Level One",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Body Level One"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "Body Level Two",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Body Level Two"
+                }
+              ]
+            },
+            {
+              "index": 3,
+              "text": "Body Level Three",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Body Level Three"
+                }
+              ]
+            },
+            {
+              "index": 4,
+              "text": "Body Level Four",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Body Level Four"
+                }
+              ]
+            },
+            {
+              "index": 5,
+              "text": "Body Level Five",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Body Level Five"
+                }
+              ]
+            }
+          ],
+          "lineWidth": 1.33
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/4",
+          "id": "4",
+          "name": "Slide Number",
+          "bbox": [
+            660.85,
+            487.47,
+            27.15,
+            26.07
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "verticalAlignment": "middle",
+            "wrap": "none",
+            "autoFit": "resizeShapeToFitText",
+            "insets": {
+              "top": 4.8,
+              "right": 4.8,
+              "bottom": 4.8,
+              "left": 4.8
+            }
+          },
+          "lineWidth": 1.33
+        }
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0z61032l",
+      "id": "433",
+      "name": "Shape 0",
+      "bbox": [
+        0,
+        0,
+        960,
+        62.4
+      ],
+      "geometry": "rect",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "right",
+        "textTransform": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 4.8,
+          "bottom": 4.8,
+          "left": 4.8
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#0A0E1A",
+      "lineWidth": 1.33
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/72x4nap4",
+      "id": "434",
+      "name": "Shape 1",
+      "bbox": [
+        0,
+        0,
+        6.72,
+        62.4
+      ],
+      "geometry": "rect",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "right",
+        "textTransform": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 4.8,
+          "bottom": 4.8,
+          "left": 4.8
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#00D4AA",
+      "lineWidth": 1.33
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ih4byhgn",
+      "id": "435",
+      "name": "Text 2",
+      "bbox": [
+        24,
+        15.77,
+        768,
+        30.86
+      ],
+      "geometry": "rect",
+      "text": "Test Case",
+      "textPreview": "Test Case",
+      "resolvedFontSize": 29.33,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 29.33,
+        "typeface": "Calibri",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "right",
+        "verticalAlignment": "middle",
+        "textTransform": "none",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Test Case"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Test Case",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Test Case"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0,
+          "indent": 0,
+          "lineSpacingPercent": 100000,
+          "spaceBefore": 0,
+          "spaceAfter": 0
+        }
+      ],
+      "lineWidth": 1.33
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/p8nqxs72",
+      "id": "436",
+      "name": "Text 3",
+      "bbox": [
+        792,
+        21.83,
+        153.6,
+        21.62
+      ],
+      "geometry": "rect",
+      "text": "Stock Talk",
+      "textPreview": "Stock Talk",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 12,
+        "typeface": "Calibri",
+        "color": "#00D4AA",
+        "italic": true,
+        "alignment": "right",
+        "verticalAlignment": "middle",
+        "textTransform": "none",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 4.8,
+          "bottom": 4.8,
+          "left": 4.8
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Stock Talk"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Stock Talk",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Stock Talk"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0,
+          "indent": 0,
+          "lineSpacingPercent": 100000,
+          "spaceBefore": 0,
+          "spaceAfter": 0
+        }
+      ],
+      "lineWidth": 1.33
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0nuxc3yl",
+      "id": "437",
+      "name": "Shape 4",
+      "bbox": [
+        0,
+        62.4,
+        960,
+        0
+      ],
+      "geometry": "line",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "right",
+        "textTransform": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 4.8,
+          "bottom": 4.8,
+          "left": 4.8
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "lineColor": "#1A2540",
+      "lineWidth": 0.67
+    },
+    {
+      "order": 6,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/zqtcj6to",
+      "id": "440",
+      "name": "WhatsApp Image 2026-06-07 at 22.34.10 (1).jpeg",
+      "bbox": [
+        413.33,
+        164.9,
+        489.02,
+        275.07
+      ],
+      "contentType": "image/jpeg",
+      "asset": {
+        "assetId": "/ppt/media/image17.jpeg",
+        "contentType": "image/jpeg",
+        "byteLength": 145991
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image17.jpeg",
+        "contentType": "image/jpeg",
+        "byteLength": 145991
+      }
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ed8v6psf",
+      "id": "439",
+      "name": "Test Case 1: Stock Analysis…",
+      "bbox": [
+        30.71,
+        111.42,
+        362.58,
+        341.19
+      ],
+      "geometry": "rect",
+      "text": "Test Case 1: Stock Analysis\n\nThis test case verifies the stock analysis functionality of StockTalk. The user enters the query \"Show me Apple stock for the last 6 months\". The system retrieves historical stock data for Apple (AAPL), analyzes its performance, and generates a market summary along with a graphical representation of the stock's price movement over the selected period. The test is considered successful if the stock information, performance metrics, and visualization are displayed correctly.",
+      "textPreview": "Test Case 1: Stock Analysis |  | This test case verifies the stock analysis functionality of StockTalk. The user enters the query \"Show m...",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "right",
+        "textTransform": "none",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 4.8,
+          "bottom": 4.8,
+          "left": 4.8
+        }
+      },
+      "textLayout": {
+        "lineCount": 16,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Test Case 1: Stock Analysis"
+          },
+          {
+            "index": 2,
+            "text": ""
+          },
+          {
+            "index": 3,
+            "text": "This test case verifies the stock"
+          },
+          {
+            "index": 4,
+            "text": "analysis functionality of StockTalk. The"
+          },
+          {
+            "index": 5,
+            "text": "user enters the query \"Show me Apple"
+          },
+          {
+            "index": 6,
+            "text": "stock for the last 6 months\". The"
+          },
+          {
+            "index": 7,
+            "text": "system retrieves historical stock data"
+          },
+          {
+            "index": 8,
+            "text": "for Apple (AAPL), analyzes its"
+          },
+          {
+            "index": 9,
+            "text": "performance, and generates a market"
+          },
+          {
+            "index": 10,
+            "text": "summary along with a graphical"
+          },
+          {
+            "index": 11,
+            "text": "representation of the stock's price"
+          },
+          {
+            "index": 12,
+            "text": "movement over the selected period."
+          },
+          {
+            "index": 13,
+            "text": "The test is considered successful if the"
+          },
+          {
+            "index": 14,
+            "text": "stock information, performance"
+          },
+          {
+            "index": 15,
+            "text": "metrics, and visualization are displayed"
+          },
+          {
+            "index": 16,
+            "text": "correctly."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Test Case 1: Stock Analysis",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Calibri",
+            "color": "#FFFFFF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Test Case 1: Stock Analysis",
+              "fontSize": 20,
+              "typeface": "Calibri",
+              "color": "#FFFFFF"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0,
+          "indent": 0,
+          "lineSpacingPercent": 100000,
+          "spaceBefore": 0,
+          "spaceAfter": 0
+        },
+        {
+          "index": 3,
+          "text": "This test case verifies the stock analysis functionality of StockTalk. The user enters the query \"Show me Apple stock for the last 6 months\". The system retrieves historical stock data for Apple (AAPL), analyzes its performance, and generates a market summary along with a graphical representation of the stock's price movement over the selected period. The test is considered successful if the stock information, performance metrics, and visualization are displayed correctly.",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Calibri",
+            "color": "#FFFFFF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "This test case verifies the stock analysis functionality of StockTalk. The user enters the query \"Show me Apple stock for the last 6 months\". The system retrieves historical stock data for Apple (AAPL), analyzes its performance, and generates a market summary along with a graphical representation of the stock's price movement over the selected period. The test is considered successful if the stock information, performance metrics, and visualization are displayed correctly.",
+              "fontSize": 20,
+              "typeface": "Calibri",
+              "color": "#FFFFFF"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0,
+          "indent": 0,
+          "lineSpacingPercent": 100000,
+          "spaceBefore": 0,
+          "spaceAfter": 0
+        }
+      ],
+      "lineWidth": 1.33
+    }
+  ],
+  "composeRuns": []
+}

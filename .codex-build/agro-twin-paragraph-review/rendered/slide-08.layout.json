@@ -1,0 +1,653 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/cpcr0p",
+    "id": "cpcr0p",
+    "slide": 8,
+    "layoutId": "e7ce5c82-279e-4cda-8347-23bcdecb3ebf",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "618b8f80-40fd-4d62-a55d-9d2784335e3e",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "+mn-lt"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "e7ce5c82-279e-4cda-8347-23bcdecb3ebf",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "618b8f80-40fd-4d62-a55d-9d2784335e3e",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "618b8f80-40fd-4d62-a55d-9d2784335e3e",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/o7y5cvup",
+      "id": "1",
+      "bbox": [
+        78,
+        42,
+        420,
+        24
+      ],
+      "geometry": "rect",
+      "text": "ACADEMIC SOURCES",
+      "textPreview": "ACADEMIC SOURCES",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "+mn-lt",
+        "color": "#2F7D4A",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "ACADEMIC SOURCES"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "ACADEMIC SOURCES",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "color": "#2F7D4A",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "ACADEMIC SOURCES",
+              "fontSize": 14,
+              "color": "#2F7D4A",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/n6p4jqt4",
+      "id": "2",
+      "bbox": [
+        78,
+        78,
+        990,
+        58
+      ],
+      "geometry": "rect",
+      "text": "References",
+      "textPreview": "References",
+      "resolvedFontSize": 39,
+      "resolvedTextStyle": {
+        "fontSize": 39,
+        "typeface": "+mn-lt",
+        "color": "#101412",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "References"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "References",
+          "resolvedTextStyle": {
+            "fontSize": 39,
+            "color": "#101412",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "References",
+              "fontSize": 39,
+              "color": "#101412",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/m5gnalcj",
+      "id": "3",
+      "bbox": [
+        78,
+        146,
+        1124,
+        2
+      ],
+      "geometry": "rect",
+      "fillColor": "#C8D3C5",
+      "lineColor": "#C8D3C5",
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xcr6p0b6",
+      "id": "4",
+      "bbox": [
+        78,
+        146,
+        154,
+        5
+      ],
+      "geometry": "rect",
+      "fillColor": "#2F7D4A",
+      "lineColor": "#2F7D4A",
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wbi5gvul",
+      "id": "5",
+      "bbox": [
+        78,
+        196,
+        1100,
+        54
+      ],
+      "geometry": "rect",
+      "text": "1. Verdouw, C. N., Tekinerdogan, B., Beulens, A., & Wolfert, S. (2021). Digital twins in smart farming. Agricultural Systems, 189, 103046. https://doi.org/10.1016/j.agsy.2020.103046",
+      "textPreview": "1. Verdouw, C. N., Tekinerdogan, B., Beulens, A., & Wolfert, S. (2021). Digital twins in smart farming. Agricultural Systems, 189, 103046...",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "+mn-lt",
+        "color": "#101412",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "1. Verdouw, C. N., Tekinerdogan, B., Beulens, A., & Wolfert, S. (2021). Digital twins in smart farming. Agricultural Systems, 189, 103046."
+          },
+          {
+            "index": 2,
+            "text": "https://doi.org/10.1016/j.agsy.2020.103046"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "1. Verdouw, C. N., Tekinerdogan, B., Beulens, A., & Wolfert, S. (2021). Digital twins in smart farming. Agricultural Systems, 189, 103046. https://doi.org/10.1016/j.agsy.2020.103046",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "color": "#101412"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "1. Verdouw, C. N., Tekinerdogan, B., Beulens, A., & Wolfert, S. (2021). Digital twins in smart farming. Agricultural Systems, 189, 103046. https://doi.org/10.1016/j.agsy.2020.103046",
+              "fontSize": 16,
+              "color": "#101412"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ba94nqtg",
+      "id": "6",
+      "bbox": [
+        78,
+        266,
+        1100,
+        54
+      ],
+      "geometry": "rect",
+      "text": "2. Pylianidis, C., Osinga, S., & Athanasiadis, I. N. (2021). Introducing digital twins to agriculture. Computers and Electronics in Agriculture, 184, 105942. https://doi.org/10.1016/j.compag.2020.105942",
+      "textPreview": "2. Pylianidis, C., Osinga, S., & Athanasiadis, I. N. (2021). Introducing digital twins to agriculture. Computers and Electronics in Agric...",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "+mn-lt",
+        "color": "#101412",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "2. Pylianidis, C., Osinga, S., & Athanasiadis, I. N. (2021). Introducing digital twins to agriculture. Computers and Electronics in Agriculture, 184, 105942."
+          },
+          {
+            "index": 2,
+            "text": "https://doi.org/10.1016/j.compag.2020.105942"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "2. Pylianidis, C., Osinga, S., & Athanasiadis, I. N. (2021). Introducing digital twins to agriculture. Computers and Electronics in Agriculture, 184, 105942. https://doi.org/10.1016/j.compag.2020.105942",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "color": "#101412"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "2. Pylianidis, C., Osinga, S., & Athanasiadis, I. N. (2021). Introducing digital twins to agriculture. Computers and Electronics in Agriculture, 184, 105942. https://doi.org/10.1016/j.compag.2020.105942",
+              "fontSize": 16,
+              "color": "#101412"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/a9gnelcv",
+      "id": "7",
+      "bbox": [
+        78,
+        336,
+        1100,
+        54
+      ],
+      "geometry": "rect",
+      "text": "3. Wolfert, S., Ge, L., Verdouw, C., & Bogaardt, M.-J. (2017). Big Data in Smart Farming - A review. Agricultural Systems, 153, 69-80. https://doi.org/10.1016/j.agsy.2017.01.023",
+      "textPreview": "3. Wolfert, S., Ge, L., Verdouw, C., & Bogaardt, M.-J. (2017). Big Data in Smart Farming - A review. Agricultural Systems, 153, 69-80. ht...",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "+mn-lt",
+        "color": "#101412",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "3. Wolfert, S., Ge, L., Verdouw, C., & Bogaardt, M.-J. (2017). Big Data in Smart Farming - A review. Agricultural Systems, 153, 69-80."
+          },
+          {
+            "index": 2,
+            "text": "https://doi.org/10.1016/j.agsy.2017.01.023"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "3. Wolfert, S., Ge, L., Verdouw, C., & Bogaardt, M.-J. (2017). Big Data in Smart Farming - A review. Agricultural Systems, 153, 69-80. https://doi.org/10.1016/j.agsy.2017.01.023",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "color": "#101412"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "3. Wolfert, S., Ge, L., Verdouw, C., & Bogaardt, M.-J. (2017). Big Data in Smart Farming - A review. Agricultural Systems, 153, 69-80. https://doi.org/10.1016/j.agsy.2017.01.023",
+              "fontSize": 16,
+              "color": "#101412"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/l0r6tkbi",
+      "id": "8",
+      "bbox": [
+        78,
+        406,
+        1100,
+        54
+      ],
+      "geometry": "rect",
+      "text": "4. Liakos, K. G., Busato, P., Moshou, D., Pearson, S., & Bochtis, D. (2018). Machine Learning in Agriculture: A Review. Sensors, 18(8), 2674. https://doi.org/10.3390/s18082674",
+      "textPreview": "4. Liakos, K. G., Busato, P., Moshou, D., Pearson, S., & Bochtis, D. (2018). Machine Learning in Agriculture: A Review. Sensors, 18(8), 2...",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "+mn-lt",
+        "color": "#101412",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "4. Liakos, K. G., Busato, P., Moshou, D., Pearson, S., & Bochtis, D. (2018). Machine Learning in Agriculture: A Review. Sensors, 18(8), 2674."
+          },
+          {
+            "index": 2,
+            "text": "https://doi.org/10.3390/s18082674"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "4. Liakos, K. G., Busato, P., Moshou, D., Pearson, S., & Bochtis, D. (2018). Machine Learning in Agriculture: A Review. Sensors, 18(8), 2674. https://doi.org/10.3390/s18082674",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "color": "#101412"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "4. Liakos, K. G., Busato, P., Moshou, D., Pearson, S., & Bochtis, D. (2018). Machine Learning in Agriculture: A Review. Sensors, 18(8), 2674. https://doi.org/10.3390/s18082674",
+              "fontSize": 16,
+              "color": "#101412"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kzi5kfux",
+      "id": "9",
+      "bbox": [
+        78,
+        476,
+        1100,
+        54
+      ],
+      "geometry": "rect",
+      "text": "5. Kamilaris, A., & Prenafeta-Boldu, F. X. (2018). Deep learning in agriculture: A survey. Computers and Electronics in Agriculture, 147, 70-90. https://doi.org/10.1016/j.compag.2018.02.016",
+      "textPreview": "5. Kamilaris, A., & Prenafeta-Boldu, F. X. (2018). Deep learning in agriculture: A survey. Computers and Electronics in Agriculture, 147,...",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "+mn-lt",
+        "color": "#101412",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "5. Kamilaris, A., & Prenafeta-Boldu, F. X. (2018). Deep learning in agriculture: A survey. Computers and Electronics in Agriculture, 147, 70-90."
+          },
+          {
+            "index": 2,
+            "text": "https://doi.org/10.1016/j.compag.2018.02.016"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "5. Kamilaris, A., & Prenafeta-Boldu, F. X. (2018). Deep learning in agriculture: A survey. Computers and Electronics in Agriculture, 147, 70-90. https://doi.org/10.1016/j.compag.2018.02.016",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "color": "#101412"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "5. Kamilaris, A., & Prenafeta-Boldu, F. X. (2018). Deep learning in agriculture: A survey. Computers and Electronics in Agriculture, 147, 70-90. https://doi.org/10.1016/j.compag.2018.02.016",
+              "fontSize": 16,
+              "color": "#101412"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/yl4nu1gr",
+      "id": "10",
+      "bbox": [
+        78,
+        546,
+        1100,
+        54
+      ],
+      "geometry": "rect",
+      "text": "6. Atzori, L., Iera, A., & Morabito, G. (2010). The Internet of Things: A survey. Computer Networks, 54(15), 2787-2805. https://doi.org/10.1016/j.comnet.2010.05.010",
+      "textPreview": "6. Atzori, L., Iera, A., & Morabito, G. (2010). The Internet of Things: A survey. Computer Networks, 54(15), 2787-2805. https://doi.org/1...",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "+mn-lt",
+        "color": "#101412",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "6. Atzori, L., Iera, A., & Morabito, G. (2010). The Internet of Things: A survey. Computer Networks, 54(15), 2787-2805."
+          },
+          {
+            "index": 2,
+            "text": "https://doi.org/10.1016/j.comnet.2010.05.010"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "6. Atzori, L., Iera, A., & Morabito, G. (2010). The Internet of Things: A survey. Computer Networks, 54(15), 2787-2805. https://doi.org/10.1016/j.comnet.2010.05.010",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "color": "#101412"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "6. Atzori, L., Iera, A., & Morabito, G. (2010). The Internet of Things: A survey. Computer Networks, 54(15), 2787-2805. https://doi.org/10.1016/j.comnet.2010.05.010",
+              "fontSize": 16,
+              "color": "#101412"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/jmd43mhc",
+      "id": "11",
+      "bbox": [
+        880,
+        666,
+        322,
+        24
+      ],
+      "geometry": "rect",
+      "text": "Agro Twin Literature Review | 8",
+      "textPreview": "Agro Twin Literature Review | 8",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "+mn-lt",
+        "color": "#4F5C55",
+        "alignment": "right",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Agro Twin Literature Review | 8"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Agro Twin Literature Review | 8",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "color": "#4F5C55",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Agro Twin Literature Review | 8",
+              "fontSize": 14,
+              "color": "#4F5C55",
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

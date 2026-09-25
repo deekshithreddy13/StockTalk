@@ -1,0 +1,1268 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/c5wcgd",
+    "id": "c5wcgd",
+    "slide": 5,
+    "layoutId": "28a17215-cbab-4a23-9791-b24616bf6510",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "0548c327-ca15-476f-9a30-4a54501f8635",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "+mn-lt"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "28a17215-cbab-4a23-9791-b24616bf6510",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "0548c327-ca15-476f-9a30-4a54501f8635",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "0548c327-ca15-476f-9a30-4a54501f8635",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1wzit0nm",
+      "id": "1",
+      "bbox": [
+        72,
+        34,
+        300,
+        24
+      ],
+      "geometry": "rect",
+      "text": "LITERATURE REVIEW",
+      "textPreview": "LITERATURE REVIEW",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "fontSize": 13,
+        "typeface": "+mn-lt",
+        "color": "#2F7D4A",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "LITERATURE REVIEW"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "LITERATURE REVIEW",
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "color": "#2F7D4A",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "LITERATURE REVIEW",
+              "fontSize": 13,
+              "color": "#2F7D4A",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/etozilov",
+      "id": "2",
+      "bbox": [
+        72,
+        72,
+        1000,
+        88
+      ],
+      "geometry": "rect",
+      "text": "Existing systems solve parts of farm intelligence",
+      "textPreview": "Existing systems solve parts of farm intelligence",
+      "resolvedFontSize": 37,
+      "resolvedTextStyle": {
+        "fontSize": 37,
+        "typeface": "+mn-lt",
+        "color": "#0B0F0E",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Existing systems solve parts of farm intelligence"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Existing systems solve parts of farm intelligence",
+          "resolvedTextStyle": {
+            "fontSize": 37,
+            "color": "#0B0F0E",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Existing systems solve parts of farm intelligence",
+              "fontSize": 37,
+              "color": "#0B0F0E",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fuh0rq5g",
+      "id": "3",
+      "bbox": [
+        72,
+        158,
+        114,
+        5
+      ],
+      "geometry": "rect",
+      "fillColor": "#2F7D4A",
+      "lineColor": "#2F7D4A",
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ozq1of6x",
+      "id": "4",
+      "bbox": [
+        86,
+        218,
+        1108,
+        344
+      ],
+      "geometry": "rect",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#B8C2B5",
+      "lineWidth": 1
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/p0zixkni",
+      "id": "5",
+      "bbox": [
+        112,
+        238,
+        300,
+        32
+      ],
+      "geometry": "rect",
+      "text": "Approach",
+      "textPreview": "Approach",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "fontSize": 20,
+        "typeface": "+mn-lt",
+        "color": "#2F7D4A",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Approach"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Approach",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "color": "#2F7D4A",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Approach",
+              "fontSize": 20,
+              "color": "#2F7D4A",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2x8jm5o7",
+      "id": "6",
+      "bbox": [
+        482,
+        238,
+        300,
+        32
+      ],
+      "geometry": "rect",
+      "text": "Typical Use",
+      "textPreview": "Typical Use",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "fontSize": 20,
+        "typeface": "+mn-lt",
+        "color": "#2F7D4A",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Typical Use"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Typical Use",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "color": "#2F7D4A",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Typical Use",
+              "fontSize": 20,
+              "color": "#2F7D4A",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3yh0va5c",
+      "id": "7",
+      "bbox": [
+        852,
+        238,
+        300,
+        32
+      ],
+      "geometry": "rect",
+      "text": "Limitation",
+      "textPreview": "Limitation",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "fontSize": 20,
+        "typeface": "+mn-lt",
+        "color": "#2F7D4A",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Limitation"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Limitation",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "color": "#2F7D4A",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Limitation",
+              "fontSize": 20,
+              "color": "#2F7D4A",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/436hcb6t",
+      "id": "8",
+      "bbox": [
+        86,
+        278,
+        1108,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#B8C2B5",
+      "lineColor": "#B8C2B5",
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/54filg7e",
+      "id": "9",
+      "bbox": [
+        112,
+        286,
+        270,
+        52
+      ],
+      "geometry": "rect",
+      "text": "IoT monitoring",
+      "textPreview": "IoT monitoring",
+      "resolvedFontSize": 19,
+      "resolvedTextStyle": {
+        "fontSize": 19,
+        "typeface": "+mn-lt",
+        "color": "#0B0F0E",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "IoT monitoring"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "IoT monitoring",
+          "resolvedTextStyle": {
+            "fontSize": 19,
+            "color": "#0B0F0E",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "IoT monitoring",
+              "fontSize": 19,
+              "color": "#0B0F0E",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/pcn61sze",
+      "id": "10",
+      "bbox": [
+        482,
+        286,
+        320,
+        52
+      ],
+      "geometry": "rect",
+      "text": "Soil moisture, temperature, humidity, pH, and field alerts",
+      "textPreview": "Soil moisture, temperature, humidity, pH, and field alerts",
+      "resolvedFontSize": 17,
+      "resolvedTextStyle": {
+        "fontSize": 17,
+        "typeface": "+mn-lt",
+        "color": "#59645F",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Soil moisture, temperature, humidity,"
+          },
+          {
+            "index": 2,
+            "text": "pH, and field alerts"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Soil moisture, temperature, humidity, pH, and field alerts",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "color": "#59645F"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Soil moisture, temperature, humidity, pH, and field alerts",
+              "fontSize": 17,
+              "color": "#59645F"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4bepsnyt",
+      "id": "11",
+      "bbox": [
+        852,
+        286,
+        320,
+        52
+      ],
+      "geometry": "rect",
+      "text": "Strong for observation; limited without predictive context",
+      "textPreview": "Strong for observation; limited without predictive context",
+      "resolvedFontSize": 17,
+      "resolvedTextStyle": {
+        "fontSize": 17,
+        "typeface": "+mn-lt",
+        "color": "#59645F",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Strong for observation; limited without"
+          },
+          {
+            "index": 2,
+            "text": "predictive context"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Strong for observation; limited without predictive context",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "color": "#59645F"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Strong for observation; limited without predictive context",
+              "fontSize": 17,
+              "color": "#59645F"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3alozih8",
+      "id": "12",
+      "bbox": [
+        86,
+        344,
+        1108,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#B8C2B5",
+      "lineColor": "#B8C2B5",
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/29c7qdgn",
+      "id": "13",
+      "bbox": [
+        112,
+        352,
+        270,
+        52
+      ],
+      "geometry": "rect",
+      "text": "Remote sensing",
+      "textPreview": "Remote sensing",
+      "resolvedFontSize": 19,
+      "resolvedTextStyle": {
+        "fontSize": 19,
+        "typeface": "+mn-lt",
+        "color": "#0B0F0E",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Remote sensing"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Remote sensing",
+          "resolvedTextStyle": {
+            "fontSize": 19,
+            "color": "#0B0F0E",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Remote sensing",
+              "fontSize": 19,
+              "color": "#0B0F0E",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dgn65sza",
+      "id": "14",
+      "bbox": [
+        482,
+        352,
+        320,
+        52
+      ],
+      "geometry": "rect",
+      "text": "Drone/satellite imagery for crop health and canopy change",
+      "textPreview": "Drone/satellite imagery for crop health and canopy change",
+      "resolvedFontSize": 17,
+      "resolvedTextStyle": {
+        "fontSize": 17,
+        "typeface": "+mn-lt",
+        "color": "#59645F",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Drone/satellite imagery for crop health"
+          },
+          {
+            "index": 2,
+            "text": "and canopy change"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Drone/satellite imagery for crop health and canopy change",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "color": "#59645F"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Drone/satellite imagery for crop health and canopy change",
+              "fontSize": 17,
+              "color": "#59645F"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cfepwnyp",
+      "id": "15",
+      "bbox": [
+        852,
+        352,
+        320,
+        52
+      ],
+      "geometry": "rect",
+      "text": "Useful at scale; may miss local ground truth",
+      "textPreview": "Useful at scale; may miss local ground truth",
+      "resolvedFontSize": 17,
+      "resolvedTextStyle": {
+        "fontSize": 17,
+        "typeface": "+mn-lt",
+        "color": "#59645F",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Useful at scale; may miss local ground"
+          },
+          {
+            "index": 2,
+            "text": "truth"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Useful at scale; may miss local ground truth",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "color": "#59645F"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Useful at scale; may miss local ground truth",
+              "fontSize": 17,
+              "color": "#59645F"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/re5o32h4",
+      "id": "16",
+      "bbox": [
+        86,
+        410,
+        1108,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#B8C2B5",
+      "lineColor": "#B8C2B5",
+      "lineWidth": 0
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qdw7uxgz",
+      "id": "17",
+      "bbox": [
+        112,
+        418,
+        270,
+        52
+      ],
+      "geometry": "rect",
+      "text": "ML prediction",
+      "textPreview": "ML prediction",
+      "resolvedFontSize": 19,
+      "resolvedTextStyle": {
+        "fontSize": 19,
+        "typeface": "+mn-lt",
+        "color": "#0B0F0E",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "ML prediction"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "ML prediction",
+          "resolvedTextStyle": {
+            "fontSize": 19,
+            "color": "#0B0F0E",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "ML prediction",
+              "fontSize": 19,
+              "color": "#0B0F0E",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/14769czm",
+      "id": "18",
+      "bbox": [
+        482,
+        418,
+        320,
+        52
+      ],
+      "geometry": "rect",
+      "text": "Disease detection, yield estimation, irrigation forecasting",
+      "textPreview": "Disease detection, yield estimation, irrigation forecasting",
+      "resolvedFontSize": 17,
+      "resolvedTextStyle": {
+        "fontSize": 17,
+        "typeface": "+mn-lt",
+        "color": "#59645F",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Disease detection, yield estimation,"
+          },
+          {
+            "index": 2,
+            "text": "irrigation forecasting"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Disease detection, yield estimation, irrigation forecasting",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "color": "#59645F"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Disease detection, yield estimation, irrigation forecasting",
+              "fontSize": 17,
+              "color": "#59645F"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/03yp07y1",
+      "id": "19",
+      "bbox": [
+        852,
+        418,
+        320,
+        52
+      ],
+      "geometry": "rect",
+      "text": "Often trained for one task rather than whole-farm decisions",
+      "textPreview": "Often trained for one task rather than whole-farm decisions",
+      "resolvedFontSize": 17,
+      "resolvedTextStyle": {
+        "fontSize": 17,
+        "typeface": "+mn-lt",
+        "color": "#59645F",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Often trained for one task rather than"
+          },
+          {
+            "index": 2,
+            "text": "whole-farm decisions"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Often trained for one task rather than whole-farm decisions",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "color": "#59645F"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Often trained for one task rather than whole-farm decisions",
+              "fontSize": 17,
+              "color": "#59645F"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kz6hsfa9",
+      "id": "20",
+      "bbox": [
+        86,
+        476,
+        1108,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#B8C2B5",
+      "lineColor": "#B8C2B5",
+      "lineWidth": 0
+    },
+    {
+      "order": 21,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lkzilkru",
+      "id": "21",
+      "bbox": [
+        112,
+        484,
+        270,
+        52
+      ],
+      "geometry": "rect",
+      "text": "Farm dashboards",
+      "textPreview": "Farm dashboards",
+      "resolvedFontSize": 19,
+      "resolvedTextStyle": {
+        "fontSize": 19,
+        "typeface": "+mn-lt",
+        "color": "#0B0F0E",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Farm dashboards"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Farm dashboards",
+          "resolvedTextStyle": {
+            "fontSize": 19,
+            "color": "#0B0F0E",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Farm dashboards",
+              "fontSize": 19,
+              "color": "#0B0F0E",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 22,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/yxozq5s3",
+      "id": "22",
+      "bbox": [
+        482,
+        484,
+        320,
+        52
+      ],
+      "geometry": "rect",
+      "text": "Visual reports and advisory messages",
+      "textPreview": "Visual reports and advisory messages",
+      "resolvedFontSize": 17,
+      "resolvedTextStyle": {
+        "fontSize": 17,
+        "typeface": "+mn-lt",
+        "color": "#59645F",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Visual reports and advisory messages"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Visual reports and advisory messages",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "color": "#59645F"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Visual reports and advisory messages",
+              "fontSize": 17,
+              "color": "#59645F"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 23,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/jyx0ja9o",
+      "id": "23",
+      "bbox": [
+        852,
+        484,
+        320,
+        52
+      ],
+      "geometry": "rect",
+      "text": "Readable outputs, but integration and localization vary",
+      "textPreview": "Readable outputs, but integration and localization vary",
+      "resolvedFontSize": 17,
+      "resolvedTextStyle": {
+        "fontSize": 17,
+        "typeface": "+mn-lt",
+        "color": "#59645F",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Readable outputs, but integration and"
+          },
+          {
+            "index": 2,
+            "text": "localization vary"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Readable outputs, but integration and localization vary",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "color": "#59645F"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Readable outputs, but integration and localization vary",
+              "fontSize": 17,
+              "color": "#59645F"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 24,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8nqhwfal",
+      "id": "24",
+      "bbox": [
+        1078,
+        668,
+        130,
+        22
+      ],
+      "geometry": "rect",
+      "text": "Agro Twin | 5",
+      "textPreview": "Agro Twin | 5",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "fontSize": 13,
+        "typeface": "+mn-lt",
+        "color": "#59645F",
+        "alignment": "right",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Agro Twin | 5"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Agro Twin | 5",
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "color": "#59645F",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Agro Twin | 5",
+              "fontSize": 13,
+              "color": "#59645F",
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

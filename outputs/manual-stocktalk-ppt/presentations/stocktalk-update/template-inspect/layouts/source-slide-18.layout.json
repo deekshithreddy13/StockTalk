@@ -1,0 +1,468 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/m58z25kb",
+    "id": "m58z25kb",
+    "slide": 19,
+    "layoutId": "/ppt/slideLayouts/slideLayout1.xml",
+    "layoutName": "DEFAULT",
+    "layoutType": "tx",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "backgroundColor": "#0F1629",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 960,
+      "height": 540
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Office Theme",
+    "colors": {
+      "accent1": "#4472C4",
+      "accent2": "#ED7D31",
+      "accent3": "#A5A5A5",
+      "accent4": "#FFC000",
+      "accent5": "#5B9BD5",
+      "accent6": "#70AD47",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#A7A7A7",
+      "lt2": "#535353",
+      "hlink": "#0000FF",
+      "folHlink": "#FF00FF"
+    },
+    "fontScheme": {
+      "name": "Office Theme",
+      "majorFont": {
+        "latinTypeface": "Helvetica",
+        "eastAsianTypeface": "Helvetica",
+        "complexScriptTypeface": "Helvetica"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri",
+        "eastAsianTypeface": "Calibri",
+        "complexScriptTypeface": "Calibri"
+      }
+    },
+    "typefaces": [
+      "Calibri",
+      "Helvetica"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout1.xml",
+      "name": "DEFAULT",
+      "type": "tx",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout1.xml/11",
+          "id": "11",
+          "name": "Slide Number",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "geometry": "rect"
+        }
+      ]
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "backgroundColor": "#FFFFFF",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/2",
+          "id": "2",
+          "name": "Title Text",
+          "bbox": [
+            143.83,
+            60.62,
+            768,
+            131.38
+          ],
+          "geometry": "rect",
+          "text": "Title Text",
+          "textPreview": "Title Text",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 4.8,
+              "bottom": 4.8,
+              "left": 4.8
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Title Text",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Title Text"
+                }
+              ]
+            }
+          ],
+          "lineWidth": 1.33
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/3",
+          "id": "3",
+          "name": "Body Level One…",
+          "bbox": [
+            535.83,
+            192,
+            376,
+            348
+          ],
+          "geometry": "rect",
+          "text": "Body Level One\nBody Level Two\nBody Level Three\nBody Level Four\nBody Level Five",
+          "textPreview": "Body Level One | Body Level Two | Body Level Three | Body Level Four | Body Level Five",
+          "resolvedTextStyle": {
+            "insets": {
+              "top": 4.8,
+              "right": 4.8,
+              "bottom": 4.8,
+              "left": 4.8
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Body Level One",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Body Level One"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "Body Level Two",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Body Level Two"
+                }
+              ]
+            },
+            {
+              "index": 3,
+              "text": "Body Level Three",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Body Level Three"
+                }
+              ]
+            },
+            {
+              "index": 4,
+              "text": "Body Level Four",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Body Level Four"
+                }
+              ]
+            },
+            {
+              "index": 5,
+              "text": "Body Level Five",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Body Level Five"
+                }
+              ]
+            }
+          ],
+          "lineWidth": 1.33
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/4",
+          "id": "4",
+          "name": "Slide Number",
+          "bbox": [
+            660.85,
+            487.47,
+            27.15,
+            26.07
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "verticalAlignment": "middle",
+            "wrap": "none",
+            "autoFit": "resizeShapeToFitText",
+            "insets": {
+              "top": 4.8,
+              "right": 4.8,
+              "bottom": 4.8,
+              "left": 4.8
+            }
+          },
+          "lineWidth": 1.33
+        }
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/032lszqt",
+      "id": "348",
+      "name": "Shape 0",
+      "bbox": [
+        0,
+        0,
+        960,
+        62.4
+      ],
+      "geometry": "rect",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "right",
+        "textTransform": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 4.8,
+          "bottom": 4.8,
+          "left": 4.8
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#0A0E1A",
+      "lineWidth": 1.33
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/tovahoza",
+      "id": "349",
+      "name": "Shape 1",
+      "bbox": [
+        0,
+        0,
+        6.72,
+        62.4
+      ],
+      "geometry": "rect",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "right",
+        "textTransform": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 4.8,
+          "bottom": 4.8,
+          "left": 4.8
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#00D4AA",
+      "lineWidth": 1.33
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/z61032ls",
+      "id": "350",
+      "name": "Text Sub",
+      "bbox": [
+        792,
+        21.83,
+        153.6,
+        21.62
+      ],
+      "geometry": "rect",
+      "text": "Stock Talk",
+      "textPreview": "Stock Talk",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 12,
+        "typeface": "Calibri",
+        "color": "#00D4AA",
+        "italic": true,
+        "alignment": "right",
+        "verticalAlignment": "middle",
+        "textTransform": "none",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 4.8,
+          "bottom": 4.8,
+          "left": 4.8
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Stock Talk"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Stock Talk",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Stock Talk"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0,
+          "indent": 0,
+          "lineSpacingPercent": 100000,
+          "spaceBefore": 0,
+          "spaceAfter": 0
+        }
+      ],
+      "lineWidth": 1.33
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/al87ed8b",
+      "id": "351",
+      "name": "3.When the download finishes, then the Visual Studio Code icon appears in the downloads folder.",
+      "bbox": [
+        38.6,
+        107.56,
+        882.79,
+        60.27
+      ],
+      "geometry": "rect",
+      "text": "3.When the download finishes, then the Visual Studio Code icon appears in the downloads folder.",
+      "textPreview": "3.When the download finishes, then the Visual Studio Code icon appears in the downloads folder.",
+      "resolvedFontSize": 21.33,
+      "resolvedTextStyle": {
+        "fontSize": 21.33,
+        "typeface": "Calibri",
+        "color": "#FFFFFF",
+        "textTransform": "none",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 4.8,
+          "bottom": 4.8,
+          "left": 4.8
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "3.When the download finishes, then the Visual Studio Code icon appears in the downloads"
+          },
+          {
+            "index": 2,
+            "text": "folder."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "3.When the download finishes, then the Visual Studio Code icon appears in the downloads folder.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "3.When the download finishes, then the Visual Studio Code icon appears in the downloads folder."
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0,
+          "indent": 0,
+          "lineSpacingPercent": 100000,
+          "spaceBefore": 0,
+          "spaceAfter": 0
+        }
+      ],
+      "lineWidth": 1.33
+    },
+    {
+      "order": 5,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/83itgfml",
+      "id": "352",
+      "name": "WhatsApp Image 2026-06-08 at 10.02.50.jpeg",
+      "bbox": [
+        307.33,
+        191.09,
+        298.1,
+        295.6
+      ],
+      "contentType": "image/jpeg",
+      "asset": {
+        "assetId": "/ppt/media/image7.jpeg",
+        "contentType": "image/jpeg",
+        "byteLength": 4275
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image7.jpeg",
+        "contentType": "image/jpeg",
+        "byteLength": 4275
+      }
+    }
+  ],
+  "composeRuns": []
+}

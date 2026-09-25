@@ -1,0 +1,704 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/tz42yg",
+    "id": "tz42yg",
+    "slide": 3,
+    "layoutId": "28a17215-cbab-4a23-9791-b24616bf6510",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "0548c327-ca15-476f-9a30-4a54501f8635",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "+mn-lt"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "28a17215-cbab-4a23-9791-b24616bf6510",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "0548c327-ca15-476f-9a30-4a54501f8635",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "0548c327-ca15-476f-9a30-4a54501f8635",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/i1o3q5wj",
+      "id": "1",
+      "bbox": [
+        72,
+        34,
+        300,
+        24
+      ],
+      "geometry": "rect",
+      "text": "LITERATURE REVIEW",
+      "textPreview": "LITERATURE REVIEW",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "fontSize": 13,
+        "typeface": "+mn-lt",
+        "color": "#2F7D4A",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "LITERATURE REVIEW"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "LITERATURE REVIEW",
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "color": "#2F7D4A",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "LITERATURE REVIEW",
+              "fontSize": 13,
+              "color": "#2F7D4A",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/54fm1kva",
+      "id": "2",
+      "bbox": [
+        72,
+        72,
+        1000,
+        88
+      ],
+      "geometry": "rect",
+      "text": "Smart farming needs a live view of the field",
+      "textPreview": "Smart farming needs a live view of the field",
+      "resolvedFontSize": 37,
+      "resolvedTextStyle": {
+        "fontSize": 37,
+        "typeface": "+mn-lt",
+        "color": "#0B0F0E",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Smart farming needs a live view of the field"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Smart farming needs a live view of the field",
+          "resolvedTextStyle": {
+            "fontSize": 37,
+            "color": "#0B0F0E",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Smart farming needs a live view of the field",
+              "fontSize": 37,
+              "color": "#0B0F0E",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/436lsfup",
+      "id": "3",
+      "bbox": [
+        72,
+        158,
+        114,
+        5
+      ],
+      "geometry": "rect",
+      "fillColor": "#2F7D4A",
+      "lineColor": "#2F7D4A",
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vydkvad8",
+      "id": "4",
+      "bbox": [
+        80,
+        222,
+        315,
+        310
+      ],
+      "geometry": "rect",
+      "fillColor": "#F4F6F1",
+      "lineColor": "#B8C2B5",
+      "lineWidth": 1
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ud43m5wn",
+      "id": "5",
+      "bbox": [
+        482,
+        222,
+        315,
+        310
+      ],
+      "geometry": "rect",
+      "fillColor": "#F4F6F1",
+      "lineColor": "#B8C2B5",
+      "lineWidth": 1
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/h0f2xkvy",
+      "id": "6",
+      "bbox": [
+        884,
+        222,
+        315,
+        310
+      ],
+      "geometry": "rect",
+      "fillColor": "#F4F6F1",
+      "lineColor": "#B8C2B5",
+      "lineWidth": 1
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gz6lofet",
+      "id": "7",
+      "bbox": [
+        110,
+        258,
+        255,
+        42
+      ],
+      "geometry": "rect",
+      "text": "Field variability",
+      "textPreview": "Field variability",
+      "resolvedFontSize": 25,
+      "resolvedTextStyle": {
+        "fontSize": 25,
+        "typeface": "+mn-lt",
+        "color": "#2F7D4A",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Field variability"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Field variability",
+          "resolvedTextStyle": {
+            "fontSize": 25,
+            "color": "#2F7D4A",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Field variability",
+              "fontSize": 25,
+              "color": "#2F7D4A",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7adkrqdw",
+      "id": "8",
+      "bbox": [
+        110,
+        322,
+        255,
+        145
+      ],
+      "geometry": "rect",
+      "text": "Soil moisture, nutrients, pest stress, and micro-climate can vary across the same farm.",
+      "textPreview": "Soil moisture, nutrients, pest stress, and micro-climate can vary across the same farm.",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "fontSize": 21,
+        "typeface": "+mn-lt",
+        "color": "#0B0F0E",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 4,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Soil moisture, nutrients,"
+          },
+          {
+            "index": 2,
+            "text": "pest stress, and"
+          },
+          {
+            "index": 3,
+            "text": "micro-climate can vary"
+          },
+          {
+            "index": 4,
+            "text": "across the same farm."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Soil moisture, nutrients, pest stress, and micro-climate can vary across the same farm.",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "color": "#0B0F0E"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Soil moisture, nutrients, pest stress, and micro-climate can vary across the same farm.",
+              "fontSize": 21,
+              "color": "#0B0F0E"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6943ilwb",
+      "id": "9",
+      "bbox": [
+        512,
+        258,
+        255,
+        42
+      ],
+      "geometry": "rect",
+      "text": "Data availability",
+      "textPreview": "Data availability",
+      "resolvedFontSize": 25,
+      "resolvedTextStyle": {
+        "fontSize": 25,
+        "typeface": "+mn-lt",
+        "color": "#2F7D4A",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Data availability"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Data availability",
+          "resolvedTextStyle": {
+            "fontSize": 25,
+            "color": "#2F7D4A",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Data availability",
+              "fontSize": 25,
+              "color": "#2F7D4A",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/g3m98nqt",
+      "id": "10",
+      "bbox": [
+        512,
+        322,
+        255,
+        145
+      ],
+      "geometry": "rect",
+      "text": "IoT devices, images, and weather APIs make continuous observation possible.",
+      "textPreview": "IoT devices, images, and weather APIs make continuous observation possible.",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "fontSize": 21,
+        "typeface": "+mn-lt",
+        "color": "#0B0F0E",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 4,
+        "lines": [
+          {
+            "index": 1,
+            "text": "IoT devices, images, and"
+          },
+          {
+            "index": 2,
+            "text": "weather APIs make"
+          },
+          {
+            "index": 3,
+            "text": "continuous observation"
+          },
+          {
+            "index": 4,
+            "text": "possible."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "IoT devices, images, and weather APIs make continuous observation possible.",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "color": "#0B0F0E"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "IoT devices, images, and weather APIs make continuous observation possible.",
+              "fontSize": 21,
+              "color": "#0B0F0E"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/h4vq1s7e",
+      "id": "11",
+      "bbox": [
+        914,
+        258,
+        255,
+        42
+      ],
+      "geometry": "rect",
+      "text": "Decision pressure",
+      "textPreview": "Decision pressure",
+      "resolvedFontSize": 25,
+      "resolvedTextStyle": {
+        "fontSize": 25,
+        "typeface": "+mn-lt",
+        "color": "#2F7D4A",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Decision pressure"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Decision pressure",
+          "resolvedTextStyle": {
+            "fontSize": 25,
+            "color": "#2F7D4A",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Decision pressure",
+              "fontSize": 25,
+              "color": "#2F7D4A",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/u14r6d83",
+      "id": "12",
+      "bbox": [
+        914,
+        322,
+        255,
+        145
+      ],
+      "geometry": "rect",
+      "text": "Farmers need timely guidance before stress becomes yield loss.",
+      "textPreview": "Farmers need timely guidance before stress becomes yield loss.",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "fontSize": 21,
+        "typeface": "+mn-lt",
+        "color": "#0B0F0E",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Farmers need timely"
+          },
+          {
+            "index": 2,
+            "text": "guidance before stress"
+          },
+          {
+            "index": 3,
+            "text": "becomes yield loss."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Farmers need timely guidance before stress becomes yield loss.",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "color": "#0B0F0E"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Farmers need timely guidance before stress becomes yield loss.",
+              "fontSize": 21,
+              "color": "#0B0F0E"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/f2d8zipo",
+      "id": "13",
+      "bbox": [
+        1078,
+        668,
+        130,
+        22
+      ],
+      "geometry": "rect",
+      "text": "Agro Twin | 3",
+      "textPreview": "Agro Twin | 3",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "fontSize": 13,
+        "typeface": "+mn-lt",
+        "color": "#59645F",
+        "alignment": "right",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Agro Twin | 3"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Agro Twin | 3",
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "color": "#59645F",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Agro Twin | 3",
+              "fontSize": 13,
+              "color": "#59645F",
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

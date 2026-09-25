@@ -1,0 +1,1 @@
+No visual structure changes planned. Text content is updated in inherited text boxes to match the new web application and current project behavior. Existing screenshots/diagram frames are preserved where present.

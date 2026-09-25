@@ -1,0 +1,249 @@
+{
+  "status": "fail",
+  "checkedAt": "2026-06-12T19:23:33.333Z",
+  "workspace": "/Users/eppadeekshithreddy/Documents/Stock Talk/outputs/manual-stocktalk-ppt/presentations/stocktalk-update",
+  "mapPath": "/Users/eppadeekshithreddy/Documents/Stock Talk/outputs/manual-stocktalk-ppt/presentations/stocktalk-update/template-frame-map.json",
+  "inspectPath": "/Users/eppadeekshithreddy/Documents/Stock Talk/outputs/manual-stocktalk-ppt/presentations/stocktalk-update/template-inspect/template-inspect.ndjson",
+  "sourceSlideCount": 34,
+  "issueCount": 34,
+  "issues": [
+    {
+      "severity": "fail",
+      "id": "preserve-only-content-role",
+      "message": "editTargets: [] means preserve-only, but narrativeRole \"Preserve original slide 1 format and update content in place\" appears content-bearing.",
+      "outputSlide": 1,
+      "sourceSlide": 1
+    },
+    {
+      "severity": "fail",
+      "id": "preserve-only-content-role",
+      "message": "editTargets: [] means preserve-only, but narrativeRole \"Preserve original slide 2 format and update content in place\" appears content-bearing.",
+      "outputSlide": 2,
+      "sourceSlide": 2
+    },
+    {
+      "severity": "fail",
+      "id": "preserve-only-content-role",
+      "message": "editTargets: [] means preserve-only, but narrativeRole \"Preserve original slide 3 format and update content in place\" appears content-bearing.",
+      "outputSlide": 3,
+      "sourceSlide": 3
+    },
+    {
+      "severity": "fail",
+      "id": "preserve-only-content-role",
+      "message": "editTargets: [] means preserve-only, but narrativeRole \"Preserve original slide 4 format and update content in place\" appears content-bearing.",
+      "outputSlide": 4,
+      "sourceSlide": 4
+    },
+    {
+      "severity": "fail",
+      "id": "preserve-only-content-role",
+      "message": "editTargets: [] means preserve-only, but narrativeRole \"Preserve original slide 5 format and update content in place\" appears content-bearing.",
+      "outputSlide": 5,
+      "sourceSlide": 5
+    },
+    {
+      "severity": "fail",
+      "id": "preserve-only-content-role",
+      "message": "editTargets: [] means preserve-only, but narrativeRole \"Preserve original slide 6 format and update content in place\" appears content-bearing.",
+      "outputSlide": 6,
+      "sourceSlide": 6
+    },
+    {
+      "severity": "fail",
+      "id": "preserve-only-content-role",
+      "message": "editTargets: [] means preserve-only, but narrativeRole \"Preserve original slide 7 format and update content in place\" appears content-bearing.",
+      "outputSlide": 7,
+      "sourceSlide": 7
+    },
+    {
+      "severity": "fail",
+      "id": "preserve-only-content-role",
+      "message": "editTargets: [] means preserve-only, but narrativeRole \"Preserve original slide 8 format and update content in place\" appears content-bearing.",
+      "outputSlide": 8,
+      "sourceSlide": 8
+    },
+    {
+      "severity": "fail",
+      "id": "preserve-only-content-role",
+      "message": "editTargets: [] means preserve-only, but narrativeRole \"Preserve original slide 9 format and update content in place\" appears content-bearing.",
+      "outputSlide": 9,
+      "sourceSlide": 9
+    },
+    {
+      "severity": "fail",
+      "id": "preserve-only-content-role",
+      "message": "editTargets: [] means preserve-only, but narrativeRole \"Preserve original slide 10 format and update content in place\" appears content-bearing.",
+      "outputSlide": 10,
+      "sourceSlide": 10
+    },
+    {
+      "severity": "fail",
+      "id": "preserve-only-content-role",
+      "message": "editTargets: [] means preserve-only, but narrativeRole \"Preserve original slide 11 format and update content in place\" appears content-bearing.",
+      "outputSlide": 11,
+      "sourceSlide": 11
+    },
+    {
+      "severity": "fail",
+      "id": "preserve-only-content-role",
+      "message": "editTargets: [] means preserve-only, but narrativeRole \"Preserve original slide 12 format and update content in place\" appears content-bearing.",
+      "outputSlide": 12,
+      "sourceSlide": 12
+    },
+    {
+      "severity": "fail",
+      "id": "preserve-only-content-role",
+      "message": "editTargets: [] means preserve-only, but narrativeRole \"Preserve original slide 13 format and update content in place\" appears content-bearing.",
+      "outputSlide": 13,
+      "sourceSlide": 13
+    },
+    {
+      "severity": "fail",
+      "id": "preserve-only-content-role",
+      "message": "editTargets: [] means preserve-only, but narrativeRole \"Preserve original slide 14 format and update content in place\" appears content-bearing.",
+      "outputSlide": 14,
+      "sourceSlide": 14
+    },
+    {
+      "severity": "fail",
+      "id": "preserve-only-content-role",
+      "message": "editTargets: [] means preserve-only, but narrativeRole \"Preserve original slide 15 format and update content in place\" appears content-bearing.",
+      "outputSlide": 15,
+      "sourceSlide": 15
+    },
+    {
+      "severity": "fail",
+      "id": "preserve-only-content-role",
+      "message": "editTargets: [] means preserve-only, but narrativeRole \"Preserve original slide 16 format and update content in place\" appears content-bearing.",
+      "outputSlide": 16,
+      "sourceSlide": 16
+    },
+    {
+      "severity": "fail",
+      "id": "preserve-only-content-role",
+      "message": "editTargets: [] means preserve-only, but narrativeRole \"Preserve original slide 17 format and update content in place\" appears content-bearing.",
+      "outputSlide": 17,
+      "sourceSlide": 17
+    },
+    {
+      "severity": "fail",
+      "id": "preserve-only-content-role",
+      "message": "editTargets: [] means preserve-only, but narrativeRole \"Preserve original slide 18 format and update content in place\" appears content-bearing.",
+      "outputSlide": 18,
+      "sourceSlide": 18
+    },
+    {
+      "severity": "fail",
+      "id": "preserve-only-content-role",
+      "message": "editTargets: [] means preserve-only, but narrativeRole \"Preserve original slide 19 format and update content in place\" appears content-bearing.",
+      "outputSlide": 19,
+      "sourceSlide": 19
+    },
+    {
+      "severity": "fail",
+      "id": "preserve-only-content-role",
+      "message": "editTargets: [] means preserve-only, but narrativeRole \"Preserve original slide 20 format and update content in place\" appears content-bearing.",
+      "outputSlide": 20,
+      "sourceSlide": 20
+    },
+    {
+      "severity": "fail",
+      "id": "preserve-only-content-role",
+      "message": "editTargets: [] means preserve-only, but narrativeRole \"Preserve original slide 21 format and update content in place\" appears content-bearing.",
+      "outputSlide": 21,
+      "sourceSlide": 21
+    },
+    {
+      "severity": "fail",
+      "id": "preserve-only-content-role",
+      "message": "editTargets: [] means preserve-only, but narrativeRole \"Preserve original slide 22 format and update content in place\" appears content-bearing.",
+      "outputSlide": 22,
+      "sourceSlide": 22
+    },
+    {
+      "severity": "fail",
+      "id": "preserve-only-content-role",
+      "message": "editTargets: [] means preserve-only, but narrativeRole \"Preserve original slide 23 format and update content in place\" appears content-bearing.",
+      "outputSlide": 23,
+      "sourceSlide": 23
+    },
+    {
+      "severity": "fail",
+      "id": "preserve-only-content-role",
+      "message": "editTargets: [] means preserve-only, but narrativeRole \"Preserve original slide 24 format and update content in place\" appears content-bearing.",
+      "outputSlide": 24,
+      "sourceSlide": 24
+    },
+    {
+      "severity": "fail",
+      "id": "preserve-only-content-role",
+      "message": "editTargets: [] means preserve-only, but narrativeRole \"Preserve original slide 25 format and update content in place\" appears content-bearing.",
+      "outputSlide": 25,
+      "sourceSlide": 25
+    },
+    {
+      "severity": "fail",
+      "id": "preserve-only-content-role",
+      "message": "editTargets: [] means preserve-only, but narrativeRole \"Preserve original slide 26 format and update content in place\" appears content-bearing.",
+      "outputSlide": 26,
+      "sourceSlide": 26
+    },
+    {
+      "severity": "fail",
+      "id": "preserve-only-content-role",
+      "message": "editTargets: [] means preserve-only, but narrativeRole \"Preserve original slide 27 format and update content in place\" appears content-bearing.",
+      "outputSlide": 27,
+      "sourceSlide": 27
+    },
+    {
+      "severity": "fail",
+      "id": "preserve-only-content-role",
+      "message": "editTargets: [] means preserve-only, but narrativeRole \"Preserve original slide 28 format and update content in place\" appears content-bearing.",
+      "outputSlide": 28,
+      "sourceSlide": 28
+    },
+    {
+      "severity": "fail",
+      "id": "preserve-only-content-role",
+      "message": "editTargets: [] means preserve-only, but narrativeRole \"Preserve original slide 29 format and update content in place\" appears content-bearing.",
+      "outputSlide": 29,
+      "sourceSlide": 29
+    },
+    {
+      "severity": "fail",
+      "id": "preserve-only-content-role",
+      "message": "editTargets: [] means preserve-only, but narrativeRole \"Preserve original slide 30 format and update content in place\" appears content-bearing.",
+      "outputSlide": 30,
+      "sourceSlide": 30
+    },
+    {
+      "severity": "fail",
+      "id": "preserve-only-content-role",
+      "message": "editTargets: [] means preserve-only, but narrativeRole \"Preserve original slide 31 format and update content in place\" appears content-bearing.",
+      "outputSlide": 31,
+      "sourceSlide": 31
+    },
+    {
+      "severity": "fail",
+      "id": "preserve-only-content-role",
+      "message": "editTargets: [] means preserve-only, but narrativeRole \"Preserve original slide 32 format and update content in place\" appears content-bearing.",
+      "outputSlide": 32,
+      "sourceSlide": 32
+    },
+    {
+      "severity": "fail",
+      "id": "preserve-only-content-role",
+      "message": "editTargets: [] means preserve-only, but narrativeRole \"Preserve original slide 33 format and update content in place\" appears content-bearing.",
+      "outputSlide": 33,
+      "sourceSlide": 33
+    },
+    {
+      "severity": "fail",
+      "id": "preserve-only-content-role",
+      "message": "editTargets: [] means preserve-only, but narrativeRole \"Preserve original slide 34 format and update content in place\" appears content-bearing.",
+      "outputSlide": 34,
+      "sourceSlide": 34
+    }
+  ]
+}

@@ -1,0 +1,438 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/khfw8o",
+    "id": "khfw8o",
+    "slide": 6,
+    "layoutId": "e7ce5c82-279e-4cda-8347-23bcdecb3ebf",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "618b8f80-40fd-4d62-a55d-9d2784335e3e",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "+mn-lt"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "e7ce5c82-279e-4cda-8347-23bcdecb3ebf",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "618b8f80-40fd-4d62-a55d-9d2784335e3e",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "618b8f80-40fd-4d62-a55d-9d2784335e3e",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xcju9ozi",
+      "id": "1",
+      "bbox": [
+        78,
+        42,
+        420,
+        24
+      ],
+      "geometry": "rect",
+      "text": "RESEARCH GAP",
+      "textPreview": "RESEARCH GAP",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "+mn-lt",
+        "color": "#2F7D4A",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "RESEARCH GAP"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "RESEARCH GAP",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "color": "#2F7D4A",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "RESEARCH GAP",
+              "fontSize": 14,
+              "color": "#2F7D4A",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/a9svy9gr",
+      "id": "2",
+      "bbox": [
+        78,
+        78,
+        990,
+        58
+      ],
+      "geometry": "rect",
+      "text": "Gaps Identified",
+      "textPreview": "Gaps Identified",
+      "resolvedFontSize": 39,
+      "resolvedTextStyle": {
+        "fontSize": 39,
+        "typeface": "+mn-lt",
+        "color": "#101412",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Gaps Identified"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Gaps Identified",
+          "resolvedTextStyle": {
+            "fontSize": 39,
+            "color": "#101412",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Gaps Identified",
+              "fontSize": 39,
+              "color": "#101412",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ba1c7ehc",
+      "id": "3",
+      "bbox": [
+        78,
+        146,
+        1124,
+        2
+      ],
+      "geometry": "rect",
+      "fillColor": "#C8D3C5",
+      "lineColor": "#C8D3C5",
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kfud4jyt",
+      "id": "4",
+      "bbox": [
+        78,
+        146,
+        154,
+        5
+      ],
+      "geometry": "rect",
+      "fillColor": "#2F7D4A",
+      "lineColor": "#2F7D4A",
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lg3udofe",
+      "id": "5",
+      "bbox": [
+        60,
+        192,
+        1160,
+        170
+      ],
+      "geometry": "rect",
+      "fillColor": "#F5F8F3",
+      "lineColor": "#C8D3C5",
+      "lineWidth": 1
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ydcv29g3",
+      "id": "6",
+      "bbox": [
+        78,
+        210,
+        1100,
+        136
+      ],
+      "geometry": "rect",
+      "text": "The literature shows that a major gap in existing systems is the lack of integration between data collection, real-time synchronization, prediction, and decision support. Many solutions handle only one part of the problem, such as monitoring soil moisture or detecting crop disease. As a result, the farmer may receive data but not a complete understanding of the current field condition and the required action.",
+      "textPreview": "The literature shows that a major gap in existing systems is the lack of integration between data collection, real-time synchronization, ...",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "fontSize": 21,
+        "typeface": "+mn-lt",
+        "color": "#101412",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 4,
+        "lines": [
+          {
+            "index": 1,
+            "text": "The literature shows that a major gap in existing systems is the lack of integration between data collection,"
+          },
+          {
+            "index": 2,
+            "text": "real-time synchronization, prediction, and decision support. Many solutions handle only one part of the problem,"
+          },
+          {
+            "index": 3,
+            "text": "such as monitoring soil moisture or detecting crop disease. As a result, the farmer may receive data but not a"
+          },
+          {
+            "index": 4,
+            "text": "complete understanding of the current field condition and the required action."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "The literature shows that a major gap in existing systems is the lack of integration between data collection, real-time synchronization, prediction, and decision support. Many solutions handle only one part of the problem, such as monitoring soil moisture or detecting crop disease. As a result, the farmer may receive data but not a complete understanding of the current field condition and the required action.",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "color": "#101412"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "The literature shows that a major gap in existing systems is the lack of integration between data collection, real-time synchronization, prediction, and decision support. Many solutions handle only one part of the problem, such as monitoring soil moisture or detecting crop disease. As a result, the farmer may receive data but not a complete understanding of the current field condition and the required action.",
+              "fontSize": 21,
+              "color": "#101412"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/jelcbeh8",
+      "id": "7",
+      "bbox": [
+        78,
+        378,
+        1100,
+        136
+      ],
+      "geometry": "rect",
+      "text": "Another important gap is explainability and local adaptation. Farmers need recommendations that are understandable, practical, and suitable for their crop, soil, climate, and available resources. Systems that depend heavily on connectivity, costly hardware, or generic models may not work well for small and medium farms. Therefore, a more unified, adaptive, and farmer-oriented system is required.",
+      "textPreview": "Another important gap is explainability and local adaptation. Farmers need recommendations that are understandable, practical, and suitab...",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "fontSize": 21,
+        "typeface": "+mn-lt",
+        "color": "#101412",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 4,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Another important gap is explainability and local adaptation. Farmers need recommendations that are"
+          },
+          {
+            "index": 2,
+            "text": "understandable, practical, and suitable for their crop, soil, climate, and available resources. Systems that depend"
+          },
+          {
+            "index": 3,
+            "text": "heavily on connectivity, costly hardware, or generic models may not work well for small and medium farms."
+          },
+          {
+            "index": 4,
+            "text": "Therefore, a more unified, adaptive, and farmer-oriented system is required."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Another important gap is explainability and local adaptation. Farmers need recommendations that are understandable, practical, and suitable for their crop, soil, climate, and available resources. Systems that depend heavily on connectivity, costly hardware, or generic models may not work well for small and medium farms. Therefore, a more unified, adaptive, and farmer-oriented system is required.",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "color": "#101412"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Another important gap is explainability and local adaptation. Farmers need recommendations that are understandable, practical, and suitable for their crop, soil, climate, and available resources. Systems that depend heavily on connectivity, costly hardware, or generic models may not work well for small and medium farms. Therefore, a more unified, adaptive, and farmer-oriented system is required.",
+              "fontSize": 21,
+              "color": "#101412"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0jqtszyp",
+      "id": "8",
+      "bbox": [
+        880,
+        666,
+        322,
+        24
+      ],
+      "geometry": "rect",
+      "text": "Agro Twin Literature Review | 6",
+      "textPreview": "Agro Twin Literature Review | 6",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "+mn-lt",
+        "color": "#4F5C55",
+        "alignment": "right",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Agro Twin Literature Review | 6"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Agro Twin Literature Review | 6",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "color": "#4F5C55",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Agro Twin Literature Review | 6",
+              "fontSize": 14,
+              "color": "#4F5C55",
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

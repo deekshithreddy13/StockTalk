@@ -1,0 +1,1463 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/8z25kb6x",
+    "id": "8z25kb6x",
+    "slide": 17,
+    "layoutId": "/ppt/slideLayouts/slideLayout1.xml",
+    "layoutName": "DEFAULT",
+    "layoutType": "tx",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "backgroundColor": "#0F1629",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 960,
+      "height": 540
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Office Theme",
+    "colors": {
+      "accent1": "#4472C4",
+      "accent2": "#ED7D31",
+      "accent3": "#A5A5A5",
+      "accent4": "#FFC000",
+      "accent5": "#5B9BD5",
+      "accent6": "#70AD47",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#A7A7A7",
+      "lt2": "#535353",
+      "hlink": "#0000FF",
+      "folHlink": "#FF00FF"
+    },
+    "fontScheme": {
+      "name": "Office Theme",
+      "majorFont": {
+        "latinTypeface": "Helvetica",
+        "eastAsianTypeface": "Helvetica",
+        "complexScriptTypeface": "Helvetica"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri",
+        "eastAsianTypeface": "Calibri",
+        "complexScriptTypeface": "Calibri"
+      }
+    },
+    "typefaces": [
+      "Calibri",
+      "Helvetica"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout1.xml",
+      "name": "DEFAULT",
+      "type": "tx",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout1.xml/11",
+          "id": "11",
+          "name": "Slide Number",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "geometry": "rect"
+        }
+      ]
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "backgroundColor": "#FFFFFF",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/2",
+          "id": "2",
+          "name": "Title Text",
+          "bbox": [
+            143.83,
+            60.62,
+            768,
+            131.38
+          ],
+          "geometry": "rect",
+          "text": "Title Text",
+          "textPreview": "Title Text",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 4.8,
+              "bottom": 4.8,
+              "left": 4.8
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Title Text",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Title Text"
+                }
+              ]
+            }
+          ],
+          "lineWidth": 1.33
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/3",
+          "id": "3",
+          "name": "Body Level One…",
+          "bbox": [
+            535.83,
+            192,
+            376,
+            348
+          ],
+          "geometry": "rect",
+          "text": "Body Level One\nBody Level Two\nBody Level Three\nBody Level Four\nBody Level Five",
+          "textPreview": "Body Level One | Body Level Two | Body Level Three | Body Level Four | Body Level Five",
+          "resolvedTextStyle": {
+            "insets": {
+              "top": 4.8,
+              "right": 4.8,
+              "bottom": 4.8,
+              "left": 4.8
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Body Level One",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Body Level One"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "Body Level Two",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Body Level Two"
+                }
+              ]
+            },
+            {
+              "index": 3,
+              "text": "Body Level Three",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Body Level Three"
+                }
+              ]
+            },
+            {
+              "index": 4,
+              "text": "Body Level Four",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Body Level Four"
+                }
+              ]
+            },
+            {
+              "index": 5,
+              "text": "Body Level Five",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Body Level Five"
+                }
+              ]
+            }
+          ],
+          "lineWidth": 1.33
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/4",
+          "id": "4",
+          "name": "Slide Number",
+          "bbox": [
+            660.85,
+            487.47,
+            27.15,
+            26.07
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "verticalAlignment": "middle",
+            "wrap": "none",
+            "autoFit": "resizeShapeToFitText",
+            "insets": {
+              "top": 4.8,
+              "right": 4.8,
+              "bottom": 4.8,
+              "left": 4.8
+            }
+          },
+          "lineWidth": 1.33
+        }
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ap4r65wj",
+      "id": "328",
+      "name": "Shape 0",
+      "bbox": [
+        0,
+        0,
+        960,
+        62.4
+      ],
+      "geometry": "rect",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "right",
+        "textTransform": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 4.8,
+          "bottom": 4.8,
+          "left": 4.8
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#0A0E1A",
+      "lineWidth": 1.33
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/za1gvy90",
+      "id": "329",
+      "name": "Shape 1",
+      "bbox": [
+        0,
+        0,
+        6.72,
+        62.4
+      ],
+      "geometry": "rect",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "right",
+        "textTransform": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 4.8,
+          "bottom": 4.8,
+          "left": 4.8
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#00D4AA",
+      "lineWidth": 1.33
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9s36hcrm",
+      "id": "330",
+      "name": "Text Title",
+      "bbox": [
+        24,
+        15.77,
+        768,
+        30.86
+      ],
+      "geometry": "rect",
+      "text": "Implementation",
+      "textPreview": "Implementation",
+      "resolvedFontSize": 29.33,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 29.33,
+        "typeface": "Calibri",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "right",
+        "verticalAlignment": "middle",
+        "textTransform": "none",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Implementation"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Implementation",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Implementation"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0,
+          "indent": 0,
+          "lineSpacingPercent": 100000,
+          "spaceBefore": 0,
+          "spaceAfter": 0
+        }
+      ],
+      "lineWidth": 1.33
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/g7adsji5",
+      "id": "331",
+      "name": "Text Sub",
+      "bbox": [
+        792,
+        21.83,
+        153.6,
+        21.62
+      ],
+      "geometry": "rect",
+      "text": "Stock Talk",
+      "textPreview": "Stock Talk",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 12,
+        "typeface": "Calibri",
+        "color": "#00D4AA",
+        "italic": true,
+        "alignment": "right",
+        "verticalAlignment": "middle",
+        "textTransform": "none",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 4.8,
+          "bottom": 4.8,
+          "left": 4.8
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Stock Talk"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Stock Talk",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Stock Talk"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0,
+          "indent": 0,
+          "lineSpacingPercent": 100000,
+          "spaceBefore": 0,
+          "spaceAfter": 0
+        }
+      ],
+      "lineWidth": 1.33
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/rmhk3q5o",
+      "id": "332",
+      "name": "Rectangle",
+      "bbox": [
+        24,
+        71.39,
+        288,
+        409.45
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "textTransform": "none",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 4.8,
+          "bottom": 4.8,
+          "left": 4.8
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          },
+          {
+            "index": 2,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#0D1B30",
+      "lineColor": "#00D4AA",
+      "lineWidth": 2
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/y1kre1w7",
+      "id": "333",
+      "name": "01 Backend Setup…",
+      "bbox": [
+        25,
+        72.39,
+        286,
+        203.51
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "01 Backend Setup\nFastAPI Server\nREST endpoints defined for query processing and chart delivery. CORS enabled for SvelteKit frontend.\nLangChain Agent\nAgent chain wired to Gemini 2.0 Flash. Prompt templates handle query parsing and code generation instructions.\nRedis Memory\nSession-scoped chat history stored in Redis for follow-up query context retention.",
+      "textPreview": "01 Backend Setup | FastAPI Server | REST endpoints defined for query processing and chart delivery. CORS enabled for SvelteKit frontend. ...",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "textTransform": "none",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 9.6,
+          "right": 9.6,
+          "bottom": 9.6,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 17,
+        "lines": [
+          {
+            "index": 1,
+            "text": "01 Backend Setup"
+          },
+          {
+            "index": 2,
+            "text": ""
+          },
+          {
+            "index": 3,
+            "text": "FastAPI Server"
+          },
+          {
+            "index": 4,
+            "text": ""
+          },
+          {
+            "index": 5,
+            "text": "REST endpoints defined for query processing and chart"
+          },
+          {
+            "index": 6,
+            "text": "delivery. CORS enabled for SvelteKit frontend."
+          },
+          {
+            "index": 7,
+            "text": ""
+          },
+          {
+            "index": 8,
+            "text": "LangChain Agent"
+          },
+          {
+            "index": 9,
+            "text": ""
+          },
+          {
+            "index": 10,
+            "text": "Agent chain wired to Gemini 2.0 Flash. Prompt"
+          },
+          {
+            "index": 11,
+            "text": "templates handle query parsing and code generation"
+          },
+          {
+            "index": 12,
+            "text": "instructions."
+          },
+          {
+            "index": 13,
+            "text": ""
+          },
+          {
+            "index": 14,
+            "text": "Redis Memory"
+          },
+          {
+            "index": 15,
+            "text": ""
+          },
+          {
+            "index": 16,
+            "text": "Session-scoped chat history stored in Redis for"
+          },
+          {
+            "index": 17,
+            "text": "follow-up query context retention."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "01 Backend Setup",
+          "resolvedTextStyle": {
+            "fontSize": 17.33,
+            "typeface": "Calibri",
+            "color": "#00D4AA",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "01 Backend Setup",
+              "fontSize": 17.33,
+              "typeface": "Calibri",
+              "color": "#00D4AA",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0,
+          "indent": 0,
+          "lineSpacingPercent": 100000,
+          "spaceBefore": 0,
+          "spaceAfter": 0
+        },
+        {
+          "index": 2,
+          "text": "FastAPI Server",
+          "spaceBefore": 800,
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "Calibri",
+            "color": "#F5A623",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "FastAPI Server",
+              "fontSize": 12,
+              "typeface": "Calibri",
+              "color": "#F5A623",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0,
+          "indent": 0,
+          "lineSpacingPercent": 100000,
+          "spaceAfter": 0
+        },
+        {
+          "index": 3,
+          "text": "REST endpoints defined for query processing and chart delivery. CORS enabled for SvelteKit frontend.",
+          "spaceBefore": 300,
+          "resolvedTextStyle": {
+            "fontSize": 10.67,
+            "typeface": "Calibri",
+            "color": "#B0BEC5"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "REST endpoints defined for query processing and chart delivery. CORS enabled for SvelteKit frontend.",
+              "fontSize": 10.67,
+              "typeface": "Calibri",
+              "color": "#B0BEC5"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0,
+          "indent": 0,
+          "lineSpacingPercent": 100000,
+          "spaceAfter": 0
+        },
+        {
+          "index": 4,
+          "text": "LangChain Agent",
+          "spaceBefore": 700,
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "Calibri",
+            "color": "#F5A623",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "LangChain Agent",
+              "fontSize": 12,
+              "typeface": "Calibri",
+              "color": "#F5A623",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0,
+          "indent": 0,
+          "lineSpacingPercent": 100000,
+          "spaceAfter": 0
+        },
+        {
+          "index": 5,
+          "text": "Agent chain wired to Gemini 2.0 Flash. Prompt templates handle query parsing and code generation instructions.",
+          "spaceBefore": 300,
+          "resolvedTextStyle": {
+            "fontSize": 10.67,
+            "typeface": "Calibri",
+            "color": "#B0BEC5"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Agent chain wired to Gemini 2.0 Flash. Prompt templates handle query parsing and code generation instructions.",
+              "fontSize": 10.67,
+              "typeface": "Calibri",
+              "color": "#B0BEC5"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0,
+          "indent": 0,
+          "lineSpacingPercent": 100000,
+          "spaceAfter": 0
+        },
+        {
+          "index": 6,
+          "text": "Redis Memory",
+          "spaceBefore": 700,
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "Calibri",
+            "color": "#F5A623",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Redis Memory",
+              "fontSize": 12,
+              "typeface": "Calibri",
+              "color": "#F5A623",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0,
+          "indent": 0,
+          "lineSpacingPercent": 100000,
+          "spaceAfter": 0
+        },
+        {
+          "index": 7,
+          "text": "Session-scoped chat history stored in Redis for follow-up query context retention.",
+          "spaceBefore": 300,
+          "resolvedTextStyle": {
+            "fontSize": 10.67,
+            "typeface": "Calibri",
+            "color": "#B0BEC5"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Session-scoped chat history stored in Redis for follow-up query context retention.",
+              "fontSize": 10.67,
+              "typeface": "Calibri",
+              "color": "#B0BEC5"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0,
+          "indent": 0,
+          "lineSpacingPercent": 100000,
+          "spaceAfter": 0
+        }
+      ],
+      "lineWidth": 1.33
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gfmlkjm1",
+      "id": "335",
+      "name": "Rectangle",
+      "bbox": [
+        336,
+        71.39,
+        288,
+        409.45
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "textTransform": "none",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 4.8,
+          "bottom": 4.8,
+          "left": 4.8
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          },
+          {
+            "index": 2,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#0D1B30",
+      "lineColor": "#F5A623",
+      "lineWidth": 2
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/rytsvu9k",
+      "id": "336",
+      "name": "02 Data Layer…",
+      "bbox": [
+        337,
+        72.39,
+        286,
+        203.51
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "02 Data Layer\nyfinance Integration\nReal-time and historical OHLCV data fetched via yfinance. Ticker validation and error handling implemented.\nPandas Processing\nDataFrames used to clean, filter, and transform stock data before passing to visualization pipeline.\nCode Execution\nLLM-generated Python code executed in a sandboxed environment; output chart saved and returned as base64.",
+      "textPreview": "02 Data Layer | yfinance Integration | Real-time and historical OHLCV data fetched via yfinance. Ticker validation and error handling imp...",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "textTransform": "none",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 9.6,
+          "right": 9.6,
+          "bottom": 9.6,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 18,
+        "lines": [
+          {
+            "index": 1,
+            "text": "02 Data Layer"
+          },
+          {
+            "index": 2,
+            "text": ""
+          },
+          {
+            "index": 3,
+            "text": "yfinance Integration"
+          },
+          {
+            "index": 4,
+            "text": ""
+          },
+          {
+            "index": 5,
+            "text": "Real-time and historical OHLCV data fetched via"
+          },
+          {
+            "index": 6,
+            "text": "yfinance. Ticker validation and error handling"
+          },
+          {
+            "index": 7,
+            "text": "implemented."
+          },
+          {
+            "index": 8,
+            "text": ""
+          },
+          {
+            "index": 9,
+            "text": "Pandas Processing"
+          },
+          {
+            "index": 10,
+            "text": ""
+          },
+          {
+            "index": 11,
+            "text": "DataFrames used to clean, filter, and transform stock"
+          },
+          {
+            "index": 12,
+            "text": "data before passing to visualization pipeline."
+          },
+          {
+            "index": 13,
+            "text": ""
+          },
+          {
+            "index": 14,
+            "text": "Code Execution"
+          },
+          {
+            "index": 15,
+            "text": ""
+          },
+          {
+            "index": 16,
+            "text": "LLM-generated Python code executed in a sandboxed"
+          },
+          {
+            "index": 17,
+            "text": "environment; output chart saved and returned as"
+          },
+          {
+            "index": 18,
+            "text": "base64."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "02 Data Layer",
+          "resolvedTextStyle": {
+            "fontSize": 17.33,
+            "typeface": "Calibri",
+            "color": "#F5A623",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "02 Data Layer",
+              "fontSize": 17.33,
+              "typeface": "Calibri",
+              "color": "#F5A623",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0,
+          "indent": 0,
+          "lineSpacingPercent": 100000,
+          "spaceBefore": 0,
+          "spaceAfter": 0
+        },
+        {
+          "index": 2,
+          "text": "yfinance Integration",
+          "spaceBefore": 800,
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "Calibri",
+            "color": "#00D4AA",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "yfinance Integration",
+              "fontSize": 12,
+              "typeface": "Calibri",
+              "color": "#00D4AA",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0,
+          "indent": 0,
+          "lineSpacingPercent": 100000,
+          "spaceAfter": 0
+        },
+        {
+          "index": 3,
+          "text": "Real-time and historical OHLCV data fetched via yfinance. Ticker validation and error handling implemented.",
+          "spaceBefore": 300,
+          "resolvedTextStyle": {
+            "fontSize": 10.67,
+            "typeface": "Calibri",
+            "color": "#B0BEC5"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Real-time and historical OHLCV data fetched via yfinance. Ticker validation and error handling implemented.",
+              "fontSize": 10.67,
+              "typeface": "Calibri",
+              "color": "#B0BEC5"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0,
+          "indent": 0,
+          "lineSpacingPercent": 100000,
+          "spaceAfter": 0
+        },
+        {
+          "index": 4,
+          "text": "Pandas Processing",
+          "spaceBefore": 700,
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "Calibri",
+            "color": "#00D4AA",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Pandas Processing",
+              "fontSize": 12,
+              "typeface": "Calibri",
+              "color": "#00D4AA",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0,
+          "indent": 0,
+          "lineSpacingPercent": 100000,
+          "spaceAfter": 0
+        },
+        {
+          "index": 5,
+          "text": "DataFrames used to clean, filter, and transform stock data before passing to visualization pipeline.",
+          "spaceBefore": 300,
+          "resolvedTextStyle": {
+            "fontSize": 10.67,
+            "typeface": "Calibri",
+            "color": "#B0BEC5"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "DataFrames used to clean, filter, and transform stock data before passing to visualization pipeline.",
+              "fontSize": 10.67,
+              "typeface": "Calibri",
+              "color": "#B0BEC5"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0,
+          "indent": 0,
+          "lineSpacingPercent": 100000,
+          "spaceAfter": 0
+        },
+        {
+          "index": 6,
+          "text": "Code Execution",
+          "spaceBefore": 700,
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "Calibri",
+            "color": "#00D4AA",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Code Execution",
+              "fontSize": 12,
+              "typeface": "Calibri",
+              "color": "#00D4AA",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0,
+          "indent": 0,
+          "lineSpacingPercent": 100000,
+          "spaceAfter": 0
+        },
+        {
+          "index": 7,
+          "text": "LLM-generated Python code executed in a sandboxed environment; output chart saved and returned as base64.",
+          "spaceBefore": 300,
+          "resolvedTextStyle": {
+            "fontSize": 10.67,
+            "typeface": "Calibri",
+            "color": "#B0BEC5"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "LLM-generated Python code executed in a sandboxed environment; output chart saved and returned as base64.",
+              "fontSize": 10.67,
+              "typeface": "Calibri",
+              "color": "#B0BEC5"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0,
+          "indent": 0,
+          "lineSpacingPercent": 100000,
+          "spaceAfter": 0
+        }
+      ],
+      "lineWidth": 1.33
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9cvixcze",
+      "id": "338",
+      "name": "Rectangle",
+      "bbox": [
+        648,
+        71.39,
+        288,
+        409.45
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "textTransform": "none",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 4.8,
+          "bottom": 4.8,
+          "left": 4.8
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          },
+          {
+            "index": 2,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#0D1B30",
+      "lineColor": "#00C853",
+      "lineWidth": 2
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gr2p8nqx",
+      "id": "339",
+      "name": "03 Frontend…",
+      "bbox": [
+        649,
+        72.39,
+        286,
+        203.51
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "03 Frontend\nSvelteKit UI\nChat-style interface built with SvelteKit. Users type queries; responses and charts render inline in real time.\nChart Display\nMatplotlib charts decoded from base64 and displayed as images. Supports zooming and download.\nSession Management\nSession IDs passed to backend to maintain unique Redis memory context per user conversation.",
+      "textPreview": "03 Frontend | SvelteKit UI | Chat-style interface built with SvelteKit. Users type queries; responses and charts render inline in real ti...",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "textTransform": "none",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 9.6,
+          "right": 9.6,
+          "bottom": 9.6,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 16,
+        "lines": [
+          {
+            "index": 1,
+            "text": "03 Frontend"
+          },
+          {
+            "index": 2,
+            "text": ""
+          },
+          {
+            "index": 3,
+            "text": "SvelteKit UI"
+          },
+          {
+            "index": 4,
+            "text": ""
+          },
+          {
+            "index": 5,
+            "text": "Chat-style interface built with SvelteKit. Users type"
+          },
+          {
+            "index": 6,
+            "text": "queries; responses and charts render inline in real time."
+          },
+          {
+            "index": 7,
+            "text": ""
+          },
+          {
+            "index": 8,
+            "text": "Chart Display"
+          },
+          {
+            "index": 9,
+            "text": ""
+          },
+          {
+            "index": 10,
+            "text": "Matplotlib charts decoded from base64 and displayed"
+          },
+          {
+            "index": 11,
+            "text": "as images. Supports zooming and download."
+          },
+          {
+            "index": 12,
+            "text": ""
+          },
+          {
+            "index": 13,
+            "text": "Session Management"
+          },
+          {
+            "index": 14,
+            "text": ""
+          },
+          {
+            "index": 15,
+            "text": "Session IDs passed to backend to maintain unique"
+          },
+          {
+            "index": 16,
+            "text": "Redis memory context per user conversation."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "03 Frontend",
+          "resolvedTextStyle": {
+            "fontSize": 17.33,
+            "typeface": "Calibri",
+            "color": "#00C853",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "03 Frontend",
+              "fontSize": 17.33,
+              "typeface": "Calibri",
+              "color": "#00C853",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0,
+          "indent": 0,
+          "lineSpacingPercent": 100000,
+          "spaceBefore": 0,
+          "spaceAfter": 0
+        },
+        {
+          "index": 2,
+          "text": "SvelteKit UI",
+          "spaceBefore": 800,
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "Calibri",
+            "color": "#00D4AA",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "SvelteKit UI",
+              "fontSize": 12,
+              "typeface": "Calibri",
+              "color": "#00D4AA",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0,
+          "indent": 0,
+          "lineSpacingPercent": 100000,
+          "spaceAfter": 0
+        },
+        {
+          "index": 3,
+          "text": "Chat-style interface built with SvelteKit. Users type queries; responses and charts render inline in real time.",
+          "spaceBefore": 300,
+          "resolvedTextStyle": {
+            "fontSize": 10.67,
+            "typeface": "Calibri",
+            "color": "#B0BEC5"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Chat-style interface built with SvelteKit. Users type queries; responses and charts render inline in real time.",
+              "fontSize": 10.67,
+              "typeface": "Calibri",
+              "color": "#B0BEC5"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0,
+          "indent": 0,
+          "lineSpacingPercent": 100000,
+          "spaceAfter": 0
+        },
+        {
+          "index": 4,
+          "text": "Chart Display",
+          "spaceBefore": 700,
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "Calibri",
+            "color": "#00D4AA",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Chart Display",
+              "fontSize": 12,
+              "typeface": "Calibri",
+              "color": "#00D4AA",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0,
+          "indent": 0,
+          "lineSpacingPercent": 100000,
+          "spaceAfter": 0
+        },
+        {
+          "index": 5,
+          "text": "Matplotlib charts decoded from base64 and displayed as images. Supports zooming and download.",
+          "spaceBefore": 300,
+          "resolvedTextStyle": {
+            "fontSize": 10.67,
+            "typeface": "Calibri",
+            "color": "#B0BEC5"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Matplotlib charts decoded from base64 and displayed as images. Supports zooming and download.",
+              "fontSize": 10.67,
+              "typeface": "Calibri",
+              "color": "#B0BEC5"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0,
+          "indent": 0,
+          "lineSpacingPercent": 100000,
+          "spaceAfter": 0
+        },
+        {
+          "index": 6,
+          "text": "Session Management",
+          "spaceBefore": 700,
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "Calibri",
+            "color": "#00D4AA",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Session Management",
+              "fontSize": 12,
+              "typeface": "Calibri",
+              "color": "#00D4AA",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0,
+          "indent": 0,
+          "lineSpacingPercent": 100000,
+          "spaceAfter": 0
+        },
+        {
+          "index": 7,
+          "text": "Session IDs passed to backend to maintain unique Redis memory context per user conversation.",
+          "spaceBefore": 300,
+          "resolvedTextStyle": {
+            "fontSize": 10.67,
+            "typeface": "Calibri",
+            "color": "#B0BEC5"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Session IDs passed to backend to maintain unique Redis memory context per user conversation.",
+              "fontSize": 10.67,
+              "typeface": "Calibri",
+              "color": "#B0BEC5"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0,
+          "indent": 0,
+          "lineSpacingPercent": 100000,
+          "spaceAfter": 0
+        }
+      ],
+      "lineWidth": 1.33
+    }
+  ],
+  "composeRuns": []
+}

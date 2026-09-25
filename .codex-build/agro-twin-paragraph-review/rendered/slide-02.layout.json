@@ -1,0 +1,438 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/rokh6f",
+    "id": "rokh6f",
+    "slide": 2,
+    "layoutId": "e7ce5c82-279e-4cda-8347-23bcdecb3ebf",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "618b8f80-40fd-4d62-a55d-9d2784335e3e",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "+mn-lt"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "e7ce5c82-279e-4cda-8347-23bcdecb3ebf",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "618b8f80-40fd-4d62-a55d-9d2784335e3e",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "618b8f80-40fd-4d62-a55d-9d2784335e3e",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2hszi1cn",
+      "id": "1",
+      "bbox": [
+        78,
+        42,
+        420,
+        24
+      ],
+      "geometry": "rect",
+      "text": "LITERATURE REVIEW",
+      "textPreview": "LITERATURE REVIEW",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "+mn-lt",
+        "color": "#2F7D4A",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "LITERATURE REVIEW"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "LITERATURE REVIEW",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "color": "#2F7D4A",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "LITERATURE REVIEW",
+              "fontSize": 14,
+              "color": "#2F7D4A",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/pk3idwve",
+      "id": "2",
+      "bbox": [
+        78,
+        78,
+        990,
+        58
+      ],
+      "geometry": "rect",
+      "text": "Abstract",
+      "textPreview": "Abstract",
+      "resolvedFontSize": 39,
+      "resolvedTextStyle": {
+        "fontSize": 39,
+        "typeface": "+mn-lt",
+        "color": "#101412",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Abstract"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Abstract",
+          "resolvedTextStyle": {
+            "fontSize": 39,
+            "color": "#101412",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Abstract",
+              "fontSize": 39,
+              "color": "#101412",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ojahkrut",
+      "id": "3",
+      "bbox": [
+        78,
+        146,
+        1124,
+        2
+      ],
+      "geometry": "rect",
+      "fillColor": "#C8D3C5",
+      "lineColor": "#C8D3C5",
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fe107mdc",
+      "id": "4",
+      "bbox": [
+        78,
+        146,
+        154,
+        5
+      ],
+      "geometry": "rect",
+      "fillColor": "#2F7D4A",
+      "lineColor": "#2F7D4A",
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/edszehcr",
+      "id": "5",
+      "bbox": [
+        60,
+        192,
+        1160,
+        170
+      ],
+      "geometry": "rect",
+      "fillColor": "#F5F8F3",
+      "lineColor": "#C8D3C5",
+      "lineWidth": 1
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1gji9wvi",
+      "id": "6",
+      "bbox": [
+        78,
+        210,
+        1100,
+        136
+      ],
+      "geometry": "rect",
+      "text": "Agriculture is increasingly moving from experience-based decision making to data-supported decision making. Recent research shows that sensors, weather data, remote observation, and artificial intelligence can help monitor crop condition, detect stress, and predict farm requirements. However, many systems remain limited to separate monitoring or prediction tasks.",
+      "textPreview": "Agriculture is increasingly moving from experience-based decision making to data-supported decision making. Recent research shows that se...",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "fontSize": 21,
+        "typeface": "+mn-lt",
+        "color": "#101412",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 4,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Agriculture is increasingly moving from experience-based decision making to data-supported decision making."
+          },
+          {
+            "index": 2,
+            "text": "Recent research shows that sensors, weather data, remote observation, and artificial intelligence can help monitor"
+          },
+          {
+            "index": 3,
+            "text": "crop condition, detect stress, and predict farm requirements. However, many systems remain limited to separate"
+          },
+          {
+            "index": 4,
+            "text": "monitoring or prediction tasks."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Agriculture is increasingly moving from experience-based decision making to data-supported decision making. Recent research shows that sensors, weather data, remote observation, and artificial intelligence can help monitor crop condition, detect stress, and predict farm requirements. However, many systems remain limited to separate monitoring or prediction tasks.",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "color": "#101412"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Agriculture is increasingly moving from experience-based decision making to data-supported decision making. Recent research shows that sensors, weather data, remote observation, and artificial intelligence can help monitor crop condition, detect stress, and predict farm requirements. However, many systems remain limited to separate monitoring or prediction tasks.",
+              "fontSize": 21,
+              "color": "#101412"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gfahgrux",
+      "id": "7",
+      "bbox": [
+        78,
+        378,
+        1100,
+        136
+      ],
+      "geometry": "rect",
+      "text": "The Agro Twin project is proposed as an integrated digital twin system for smart farming. It aims to maintain a continuously updated virtual model of the field and use that model to provide crop condition monitoring, risk prediction, and decision support. This review highlights the state of current research, the limitations of existing systems, and the gap that Agro Twin intends to address.",
+      "textPreview": "The Agro Twin project is proposed as an integrated digital twin system for smart farming. It aims to maintain a continuously updated virt...",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "fontSize": 21,
+        "typeface": "+mn-lt",
+        "color": "#101412",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 4,
+        "lines": [
+          {
+            "index": 1,
+            "text": "The Agro Twin project is proposed as an integrated digital twin system for smart farming. It aims to maintain a"
+          },
+          {
+            "index": 2,
+            "text": "continuously updated virtual model of the field and use that model to provide crop condition monitoring, risk"
+          },
+          {
+            "index": 3,
+            "text": "prediction, and decision support. This review highlights the state of current research, the limitations of existing"
+          },
+          {
+            "index": 4,
+            "text": "systems, and the gap that Agro Twin intends to address."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "The Agro Twin project is proposed as an integrated digital twin system for smart farming. It aims to maintain a continuously updated virtual model of the field and use that model to provide crop condition monitoring, risk prediction, and decision support. This review highlights the state of current research, the limitations of existing systems, and the gap that Agro Twin intends to address.",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "color": "#101412"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "The Agro Twin project is proposed as an integrated digital twin system for smart farming. It aims to maintain a continuously updated virtual model of the field and use that model to provide crop condition monitoring, risk prediction, and decision support. This review highlights the state of current research, the limitations of existing systems, and the gap that Agro Twin intends to address.",
+              "fontSize": 21,
+              "color": "#101412"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/rqh032d0",
+      "id": "8",
+      "bbox": [
+        880,
+        666,
+        322,
+        24
+      ],
+      "geometry": "rect",
+      "text": "Agro Twin Literature Review | 2",
+      "textPreview": "Agro Twin Literature Review | 2",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "+mn-lt",
+        "color": "#4F5C55",
+        "alignment": "right",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Agro Twin Literature Review | 2"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Agro Twin Literature Review | 2",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "color": "#4F5C55",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Agro Twin Literature Review | 2",
+              "fontSize": 14,
+              "color": "#4F5C55",
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

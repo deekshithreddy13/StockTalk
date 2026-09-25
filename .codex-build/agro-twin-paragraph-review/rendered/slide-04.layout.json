@@ -1,0 +1,438 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/m6mgs0",
+    "id": "m6mgs0",
+    "slide": 4,
+    "layoutId": "e7ce5c82-279e-4cda-8347-23bcdecb3ebf",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "618b8f80-40fd-4d62-a55d-9d2784335e3e",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "+mn-lt"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "e7ce5c82-279e-4cda-8347-23bcdecb3ebf",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "618b8f80-40fd-4d62-a55d-9d2784335e3e",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "618b8f80-40fd-4d62-a55d-9d2784335e3e",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/yp0f69g3",
+      "id": "1",
+      "bbox": [
+        78,
+        42,
+        420,
+        24
+      ],
+      "geometry": "rect",
+      "text": "RELATED RESEARCH",
+      "textPreview": "RELATED RESEARCH",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "+mn-lt",
+        "color": "#2F7D4A",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "RELATED RESEARCH"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "RELATED RESEARCH",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "color": "#2F7D4A",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "RELATED RESEARCH",
+              "fontSize": 14,
+              "color": "#2F7D4A",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lsryh4fe",
+      "id": "2",
+      "bbox": [
+        78,
+        78,
+        990,
+        58
+      ],
+      "geometry": "rect",
+      "text": "State of the Art",
+      "textPreview": "State of the Art",
+      "resolvedFontSize": 39,
+      "resolvedTextStyle": {
+        "fontSize": 39,
+        "typeface": "+mn-lt",
+        "color": "#101412",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "State of the Art"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "State of the Art",
+          "resolvedTextStyle": {
+            "fontSize": 39,
+            "color": "#101412",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "State of the Art",
+              "fontSize": 39,
+              "color": "#101412",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/krix8zet",
+      "id": "3",
+      "bbox": [
+        78,
+        146,
+        1124,
+        2
+      ],
+      "geometry": "rect",
+      "fillColor": "#C8D3C5",
+      "lineColor": "#C8D3C5",
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/b2pgbuxc",
+      "id": "4",
+      "bbox": [
+        78,
+        146,
+        154,
+        5
+      ],
+      "geometry": "rect",
+      "fillColor": "#2F7D4A",
+      "lineColor": "#2F7D4A",
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/a1gf2pgr",
+      "id": "5",
+      "bbox": [
+        60,
+        192,
+        1160,
+        170
+      ],
+      "geometry": "rect",
+      "fillColor": "#F5F8F3",
+      "lineColor": "#C8D3C5",
+      "lineWidth": 1
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xoryd4fi",
+      "id": "6",
+      "bbox": [
+        78,
+        210,
+        1100,
+        136
+      ],
+      "geometry": "rect",
+      "text": "The state of the art in smart agriculture includes IoT based field monitoring, remote sensing, cloud platforms, big-data analytics, machine learning, and digital twin architectures. IoT research focuses on collecting real-time data from the farm, while machine learning research focuses on prediction tasks such as disease detection, yield estimation, irrigation scheduling, and crop classification.",
+      "textPreview": "The state of the art in smart agriculture includes IoT based field monitoring, remote sensing, cloud platforms, big-data analytics, machi...",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "fontSize": 21,
+        "typeface": "+mn-lt",
+        "color": "#101412",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 4,
+        "lines": [
+          {
+            "index": 1,
+            "text": "The state of the art in smart agriculture includes IoT based field monitoring, remote sensing, cloud platforms,"
+          },
+          {
+            "index": 2,
+            "text": "big-data analytics, machine learning, and digital twin architectures. IoT research focuses on collecting real-time"
+          },
+          {
+            "index": 3,
+            "text": "data from the farm, while machine learning research focuses on prediction tasks such as disease detection, yield"
+          },
+          {
+            "index": 4,
+            "text": "estimation, irrigation scheduling, and crop classification."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "The state of the art in smart agriculture includes IoT based field monitoring, remote sensing, cloud platforms, big-data analytics, machine learning, and digital twin architectures. IoT research focuses on collecting real-time data from the farm, while machine learning research focuses on prediction tasks such as disease detection, yield estimation, irrigation scheduling, and crop classification.",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "color": "#101412"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "The state of the art in smart agriculture includes IoT based field monitoring, remote sensing, cloud platforms, big-data analytics, machine learning, and digital twin architectures. IoT research focuses on collecting real-time data from the farm, while machine learning research focuses on prediction tasks such as disease detection, yield estimation, irrigation scheduling, and crop classification.",
+              "fontSize": 21,
+              "color": "#101412"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cnix4zyx",
+      "id": "7",
+      "bbox": [
+        78,
+        378,
+        1100,
+        136
+      ],
+      "geometry": "rect",
+      "text": "Digital twin research brings these components together by creating a synchronized virtual representation of the physical agricultural system. Studies on agricultural digital twins explain that a useful twin should not only store data, but also support simulation, prediction, feedback, and decision making. This makes the digital twin approach more suitable for integrated farm intelligence than isolated sensor dashboards.",
+      "textPreview": "Digital twin research brings these components together by creating a synchronized virtual representation of the physical agricultural sys...",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "fontSize": 21,
+        "typeface": "+mn-lt",
+        "color": "#101412",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 4,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Digital twin research brings these components together by creating a synchronized virtual representation of the"
+          },
+          {
+            "index": 2,
+            "text": "physical agricultural system. Studies on agricultural digital twins explain that a useful twin should not only store"
+          },
+          {
+            "index": 3,
+            "text": "data, but also support simulation, prediction, feedback, and decision making. This makes the digital twin approach"
+          },
+          {
+            "index": 4,
+            "text": "more suitable for integrated farm intelligence than isolated sensor dashboards."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Digital twin research brings these components together by creating a synchronized virtual representation of the physical agricultural system. Studies on agricultural digital twins explain that a useful twin should not only store data, but also support simulation, prediction, feedback, and decision making. This makes the digital twin approach more suitable for integrated farm intelligence than isolated sensor dashboards.",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "color": "#101412"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Digital twin research brings these components together by creating a synchronized virtual representation of the physical agricultural system. Studies on agricultural digital twins explain that a useful twin should not only store data, but also support simulation, prediction, feedback, and decision making. This makes the digital twin approach more suitable for integrated farm intelligence than isolated sensor dashboards.",
+              "fontSize": 21,
+              "color": "#101412"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vytgnexg",
+      "id": "8",
+      "bbox": [
+        880,
+        666,
+        322,
+        24
+      ],
+      "geometry": "rect",
+      "text": "Agro Twin Literature Review | 4",
+      "textPreview": "Agro Twin Literature Review | 4",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "+mn-lt",
+        "color": "#4F5C55",
+        "alignment": "right",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Agro Twin Literature Review | 4"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Agro Twin Literature Review | 4",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "color": "#4F5C55",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Agro Twin Literature Review | 4",
+              "fontSize": 14,
+              "color": "#4F5C55",
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

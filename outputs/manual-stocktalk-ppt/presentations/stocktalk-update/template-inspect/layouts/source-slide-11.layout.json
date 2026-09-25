@@ -1,0 +1,1272 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/re1w7mp0",
+    "id": "re1w7mp0",
+    "slide": 12,
+    "layoutId": "/ppt/slideLayouts/slideLayout1.xml",
+    "layoutName": "DEFAULT",
+    "layoutType": "tx",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "backgroundColor": "#0F1629",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 960,
+      "height": 540
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Office Theme",
+    "colors": {
+      "accent1": "#4472C4",
+      "accent2": "#ED7D31",
+      "accent3": "#A5A5A5",
+      "accent4": "#FFC000",
+      "accent5": "#5B9BD5",
+      "accent6": "#70AD47",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#A7A7A7",
+      "lt2": "#535353",
+      "hlink": "#0000FF",
+      "folHlink": "#FF00FF"
+    },
+    "fontScheme": {
+      "name": "Office Theme",
+      "majorFont": {
+        "latinTypeface": "Helvetica",
+        "eastAsianTypeface": "Helvetica",
+        "complexScriptTypeface": "Helvetica"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri",
+        "eastAsianTypeface": "Calibri",
+        "complexScriptTypeface": "Calibri"
+      }
+    },
+    "typefaces": [
+      "Calibri",
+      "Helvetica"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout1.xml",
+      "name": "DEFAULT",
+      "type": "tx",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout1.xml/11",
+          "id": "11",
+          "name": "Slide Number",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "geometry": "rect"
+        }
+      ]
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "backgroundColor": "#FFFFFF",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/2",
+          "id": "2",
+          "name": "Title Text",
+          "bbox": [
+            143.83,
+            60.62,
+            768,
+            131.38
+          ],
+          "geometry": "rect",
+          "text": "Title Text",
+          "textPreview": "Title Text",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 4.8,
+              "bottom": 4.8,
+              "left": 4.8
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Title Text",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Title Text"
+                }
+              ]
+            }
+          ],
+          "lineWidth": 1.33
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/3",
+          "id": "3",
+          "name": "Body Level One…",
+          "bbox": [
+            535.83,
+            192,
+            376,
+            348
+          ],
+          "geometry": "rect",
+          "text": "Body Level One\nBody Level Two\nBody Level Three\nBody Level Four\nBody Level Five",
+          "textPreview": "Body Level One | Body Level Two | Body Level Three | Body Level Four | Body Level Five",
+          "resolvedTextStyle": {
+            "insets": {
+              "top": 4.8,
+              "right": 4.8,
+              "bottom": 4.8,
+              "left": 4.8
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Body Level One",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Body Level One"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "Body Level Two",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Body Level Two"
+                }
+              ]
+            },
+            {
+              "index": 3,
+              "text": "Body Level Three",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Body Level Three"
+                }
+              ]
+            },
+            {
+              "index": 4,
+              "text": "Body Level Four",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Body Level Four"
+                }
+              ]
+            },
+            {
+              "index": 5,
+              "text": "Body Level Five",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Body Level Five"
+                }
+              ]
+            }
+          ],
+          "lineWidth": 1.33
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/4",
+          "id": "4",
+          "name": "Slide Number",
+          "bbox": [
+            660.85,
+            487.47,
+            27.15,
+            26.07
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "verticalAlignment": "middle",
+            "wrap": "none",
+            "autoFit": "resizeShapeToFitText",
+            "insets": {
+              "top": 4.8,
+              "right": 4.8,
+              "bottom": 4.8,
+              "left": 4.8
+            }
+          },
+          "lineWidth": 1.33
+        }
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fu18jqh0",
+      "id": "278",
+      "name": "Shape 0",
+      "bbox": [
+        0,
+        0,
+        960,
+        62.4
+      ],
+      "geometry": "rect",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "right",
+        "textTransform": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 4.8,
+          "bottom": 4.8,
+          "left": 4.8
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#0A0E1A",
+      "lineWidth": 1.33
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/m94fu18j",
+      "id": "279",
+      "name": "Shape 1",
+      "bbox": [
+        0,
+        0,
+        6.72,
+        62.4
+      ],
+      "geometry": "rect",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "right",
+        "textTransform": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 4.8,
+          "bottom": 4.8,
+          "left": 4.8
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#00D4AA",
+      "lineWidth": 1.33
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mhk3q5o7",
+      "id": "280",
+      "name": "Text Title",
+      "bbox": [
+        24,
+        15.77,
+        768,
+        30.86
+      ],
+      "geometry": "rect",
+      "text": "UML Diagrams Overview",
+      "textPreview": "UML Diagrams Overview",
+      "resolvedFontSize": 29.33,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 29.33,
+        "typeface": "Calibri",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "right",
+        "verticalAlignment": "middle",
+        "textTransform": "none",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "UML Diagrams Overview"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "UML Diagrams Overview",
+          "runs": [
+            {
+              "index": 1,
+              "text": "UML Diagrams Overview"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0,
+          "indent": 0,
+          "lineSpacingPercent": 100000,
+          "spaceBefore": 0,
+          "spaceAfter": 0
+        }
+      ],
+      "lineWidth": 1.33
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/b2hwfyxo",
+      "id": "281",
+      "name": "Text Sub",
+      "bbox": [
+        792,
+        21.83,
+        153.6,
+        21.62
+      ],
+      "geometry": "rect",
+      "text": "Stock Talk",
+      "textPreview": "Stock Talk",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 12,
+        "typeface": "Calibri",
+        "color": "#00D4AA",
+        "italic": true,
+        "alignment": "right",
+        "verticalAlignment": "middle",
+        "textTransform": "none",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 4.8,
+          "bottom": 4.8,
+          "left": 4.8
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Stock Talk"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Stock Talk",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Stock Talk"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0,
+          "indent": 0,
+          "lineSpacingPercent": 100000,
+          "spaceBefore": 0,
+          "spaceAfter": 0
+        }
+      ],
+      "lineWidth": 1.33
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4nap4r65",
+      "id": "282",
+      "name": "Rectangle",
+      "bbox": [
+        24,
+        69.29,
+        912,
+        55.64
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 16,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "right",
+        "verticalAlignment": "middle",
+        "textTransform": "none",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 4.8,
+          "bottom": 4.8,
+          "left": 4.8
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#141D35",
+      "lineColor": "#1E2D4A",
+      "lineWidth": 1.33
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/t83itgfm",
+      "id": "283",
+      "name": "Unified Modeling Language (UML) is a standard visual language used to model and design software systems. For Stock Talk, UML diagrams capture the system’s structure, behavior, and interaction flow — from user queries to chart generation.",
+      "bbox": [
+        29.47,
+        76.45,
+        901.07,
+        41.32
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "Unified Modeling Language (UML) is a standard visual language used to model and design software systems. For Stock Talk, UML diagrams capture the system’s structure, behavior, and interaction flow — from user queries to chart generation.",
+      "textPreview": "Unified Modeling Language (UML) is a standard visual language used to model and design software systems. For Stock Talk, UML diagrams cap...",
+      "resolvedFontSize": 13.33,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 13.33,
+        "typeface": "Calibri",
+        "color": "#B0BEC5",
+        "alignment": "right",
+        "verticalAlignment": "middle",
+        "textTransform": "none",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 4.8,
+          "bottom": 4.8,
+          "left": 4.8
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Unified Modeling Language (UML) is a standard visual language used to model and design software systems. For Stock Talk, UML diagrams capture"
+          },
+          {
+            "index": 2,
+            "text": "the system’s structure, behavior, and interaction flow — from user queries to chart generation."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Unified Modeling Language (UML) is a standard visual language used to model and design software systems. For Stock Talk, UML diagrams capture the system’s structure, behavior, and interaction flow — from user queries to chart generation.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Unified Modeling Language (UML) is a standard visual language used to model and design software systems. For Stock Talk, UML diagrams capture the system’s structure, behavior, and interaction flow — from user queries to chart generation."
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0,
+          "indent": 0,
+          "lineSpacingPercent": 100000,
+          "spaceBefore": 0,
+          "spaceAfter": 0
+        }
+      ],
+      "lineWidth": 1.33
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bq1oryts",
+      "id": "285",
+      "name": "Rectangle",
+      "bbox": [
+        24,
+        131.23,
+        440.95,
+        120.74
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "textTransform": "none",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 4.8,
+          "bottom": 4.8,
+          "left": 4.8
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          },
+          {
+            "index": 2,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#0A1628",
+      "lineColor": "#00D4AA",
+      "lineWidth": 2
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4byhgn29",
+      "id": "286",
+      "name": "Use Case Diagram…",
+      "bbox": [
+        25,
+        132.23,
+        438.95,
+        88.55
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "Use Case Diagram\nShows interactions between User, FastAPI backend, and Yahoo Finance. Actors: User, LLM Agent, Data Source. Key use cases: Query Stock, Compare Assets, View History, Follow-up Query.",
+      "textPreview": "Use Case Diagram | Shows interactions between User, FastAPI backend, and Yahoo Finance. Actors: User, LLM Agent, Data Source. Key use cas...",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "textTransform": "none",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 9.6,
+          "right": 9.6,
+          "bottom": 9.6,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 5,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Use Case Diagram"
+          },
+          {
+            "index": 2,
+            "text": ""
+          },
+          {
+            "index": 3,
+            "text": "Shows interactions between User, FastAPI backend, and Yahoo Finance."
+          },
+          {
+            "index": 4,
+            "text": "Actors: User, LLM Agent, Data Source. Key use cases: Query Stock, Compare"
+          },
+          {
+            "index": 5,
+            "text": "Assets, View History, Follow-up Query."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Use Case Diagram",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Calibri",
+            "color": "#00D4AA",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Use Case Diagram",
+              "fontSize": 16,
+              "typeface": "Calibri",
+              "color": "#00D4AA",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0,
+          "indent": 0,
+          "lineSpacingPercent": 100000,
+          "spaceBefore": 0,
+          "spaceAfter": 0
+        },
+        {
+          "index": 2,
+          "text": "Shows interactions between User, FastAPI backend, and Yahoo Finance. Actors: User, LLM Agent, Data Source. Key use cases: Query Stock, Compare Assets, View History, Follow-up Query.",
+          "spaceBefore": 600,
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "Calibri",
+            "color": "#B0BEC5"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Shows interactions between User, FastAPI backend, and Yahoo Finance. Actors: User, LLM Agent, Data Source. Key use cases: Query Stock, Compare Assets, View History, Follow-up Query.",
+              "fontSize": 12,
+              "typeface": "Calibri",
+              "color": "#B0BEC5"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0,
+          "indent": 0,
+          "lineSpacingPercent": 100000,
+          "spaceAfter": 0
+        }
+      ],
+      "lineWidth": 1.33
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/m1cfa9w3",
+      "id": "288",
+      "name": "Rectangle",
+      "bbox": [
+        495.05,
+        131.23,
+        440.95,
+        120.74
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "textTransform": "none",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 4.8,
+          "bottom": 4.8,
+          "left": 4.8
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          },
+          {
+            "index": 2,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#0A1628",
+      "lineColor": "#F5A623",
+      "lineWidth": 2
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bm58z25k",
+      "id": "289",
+      "name": "Class Diagram…",
+      "bbox": [
+        496.05,
+        132.23,
+        438.95,
+        88.55
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "Class Diagram\nDefines classes: QueryHandler, LLMAgent, DataFetcher, RedisMemory, ChartGenerator. Each class shows attributes and methods representing the system’s static structure.",
+      "textPreview": "Class Diagram | Defines classes: QueryHandler, LLMAgent, DataFetcher, RedisMemory, ChartGenerator. Each class shows attributes and method...",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "textTransform": "none",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 9.6,
+          "right": 9.6,
+          "bottom": 9.6,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 5,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Class Diagram"
+          },
+          {
+            "index": 2,
+            "text": ""
+          },
+          {
+            "index": 3,
+            "text": "Defines classes: QueryHandler, LLMAgent, DataFetcher, RedisMemory,"
+          },
+          {
+            "index": 4,
+            "text": "ChartGenerator. Each class shows attributes and methods representing the"
+          },
+          {
+            "index": 5,
+            "text": "system’s static structure."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Class Diagram",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Calibri",
+            "color": "#F5A623",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Class Diagram",
+              "fontSize": 16,
+              "typeface": "Calibri",
+              "color": "#F5A623",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0,
+          "indent": 0,
+          "lineSpacingPercent": 100000,
+          "spaceBefore": 0,
+          "spaceAfter": 0
+        },
+        {
+          "index": 2,
+          "text": "Defines classes: QueryHandler, LLMAgent, DataFetcher, RedisMemory, ChartGenerator. Each class shows attributes and methods representing the system’s static structure.",
+          "spaceBefore": 600,
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "Calibri",
+            "color": "#B0BEC5"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Defines classes: QueryHandler, LLMAgent, DataFetcher, RedisMemory, ChartGenerator. Each class shows attributes and methods representing the system’s static structure.",
+              "fontSize": 12,
+              "typeface": "Calibri",
+              "color": "#B0BEC5"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0,
+          "indent": 0,
+          "lineSpacingPercent": 100000,
+          "spaceAfter": 0
+        }
+      ],
+      "lineWidth": 1.33
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/c3ylc7u5",
+      "id": "291",
+      "name": "Rectangle",
+      "bbox": [
+        24,
+        260.37,
+        440.95,
+        120.74
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "textTransform": "none",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 4.8,
+          "bottom": 4.8,
+          "left": 4.8
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          },
+          {
+            "index": 2,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#0A1628",
+      "lineColor": "#00D4AA",
+      "lineWidth": 2
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ji5snelo",
+      "id": "292",
+      "name": "Sequence Diagram…",
+      "bbox": [
+        25,
+        261.37,
+        438.95,
+        73.88
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "Sequence Diagram\nIllustrates the message flow: User → FastAPI → LangChain → Gemini → yfinance → Redis → Matplotlib → Response back to User interface.",
+      "textPreview": "Sequence Diagram | Illustrates the message flow: User → FastAPI → LangChain → Gemini → yfinance → Redis → Matplotlib → Response back to U...",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "textTransform": "none",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 9.6,
+          "right": 9.6,
+          "bottom": 9.6,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 4,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Sequence Diagram"
+          },
+          {
+            "index": 2,
+            "text": ""
+          },
+          {
+            "index": 3,
+            "text": "Illustrates the message flow: User → FastAPI → LangChain → Gemini →"
+          },
+          {
+            "index": 4,
+            "text": "yfinance → Redis → Matplotlib → Response back to User interface."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Sequence Diagram",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Calibri",
+            "color": "#00D4AA",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Sequence Diagram",
+              "fontSize": 16,
+              "typeface": "Calibri",
+              "color": "#00D4AA",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0,
+          "indent": 0,
+          "lineSpacingPercent": 100000,
+          "spaceBefore": 0,
+          "spaceAfter": 0
+        },
+        {
+          "index": 2,
+          "text": "Illustrates the message flow: User → FastAPI → LangChain → Gemini → yfinance → Redis → Matplotlib → Response back to User interface.",
+          "spaceBefore": 600,
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "Calibri",
+            "color": "#B0BEC5"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Illustrates the message flow: User → FastAPI → LangChain → Gemini → yfinance → Redis → Matplotlib → Response back to User interface.",
+              "fontSize": 12,
+              "typeface": "Calibri",
+              "color": "#B0BEC5"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0,
+          "indent": 0,
+          "lineSpacingPercent": 100000,
+          "spaceAfter": 0
+        }
+      ],
+      "lineWidth": 1.33
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1cfa9w3m",
+      "id": "294",
+      "name": "Rectangle",
+      "bbox": [
+        495.05,
+        260.37,
+        440.95,
+        120.74
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "textTransform": "none",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 4.8,
+          "bottom": 4.8,
+          "left": 4.8
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          },
+          {
+            "index": 2,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#0A1628",
+      "lineColor": "#F5A623",
+      "lineWidth": 2
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/crmhk3q5",
+      "id": "295",
+      "name": "Activity Diagram…",
+      "bbox": [
+        496.05,
+        261.37,
+        438.95,
+        73.88
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "Activity Diagram\nDescribes the flow from user input through query parsing, code generation, data retrieval, execution, and final chart display — including error handling branches.",
+      "textPreview": "Activity Diagram | Describes the flow from user input through query parsing, code generation, data retrieval, execution, and final chart ...",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "textTransform": "none",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 9.6,
+          "right": 9.6,
+          "bottom": 9.6,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 5,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Activity Diagram"
+          },
+          {
+            "index": 2,
+            "text": ""
+          },
+          {
+            "index": 3,
+            "text": "Describes the flow from user input through query parsing, code generation,"
+          },
+          {
+            "index": 4,
+            "text": "data retrieval, execution, and final chart display — including error handling"
+          },
+          {
+            "index": 5,
+            "text": "branches."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Activity Diagram",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Calibri",
+            "color": "#F5A623",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Activity Diagram",
+              "fontSize": 16,
+              "typeface": "Calibri",
+              "color": "#F5A623",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0,
+          "indent": 0,
+          "lineSpacingPercent": 100000,
+          "spaceBefore": 0,
+          "spaceAfter": 0
+        },
+        {
+          "index": 2,
+          "text": "Describes the flow from user input through query parsing, code generation, data retrieval, execution, and final chart display — including error handling branches.",
+          "spaceBefore": 600,
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "Calibri",
+            "color": "#B0BEC5"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Describes the flow from user input through query parsing, code generation, data retrieval, execution, and final chart display — including error handling branches.",
+              "fontSize": 12,
+              "typeface": "Calibri",
+              "color": "#B0BEC5"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0,
+          "indent": 0,
+          "lineSpacingPercent": 100000,
+          "spaceAfter": 0
+        }
+      ],
+      "lineWidth": 1.33
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ulwval87",
+      "id": "297",
+      "name": "Note",
+      "bbox": [
+        24,
+        391.29,
+        912,
+        21.62
+      ],
+      "geometry": "rect",
+      "text": "Detailed diagrams follow on the next slides",
+      "textPreview": "Detailed diagrams follow on the next slides",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 12,
+        "typeface": "Calibri",
+        "color": "#546E7A",
+        "italic": true,
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "textTransform": "none",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 4.8,
+          "bottom": 4.8,
+          "left": 4.8
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Detailed diagrams follow on the next slides"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Detailed diagrams follow on the next slides",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Detailed diagrams follow on the next slides"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0,
+          "indent": 0,
+          "lineSpacingPercent": 100000,
+          "spaceBefore": 0,
+          "spaceAfter": 0
+        }
+      ],
+      "lineWidth": 1.33
+    }
+  ],
+  "composeRuns": []
+}

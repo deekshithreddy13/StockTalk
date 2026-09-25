@@ -1,0 +1,438 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/77avn5",
+    "id": "77avn5",
+    "slide": 5,
+    "layoutId": "e7ce5c82-279e-4cda-8347-23bcdecb3ebf",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "618b8f80-40fd-4d62-a55d-9d2784335e3e",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "+mn-lt"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "e7ce5c82-279e-4cda-8347-23bcdecb3ebf",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "618b8f80-40fd-4d62-a55d-9d2784335e3e",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "618b8f80-40fd-4d62-a55d-9d2784335e3e",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ulsnmtwv",
+      "id": "1",
+      "bbox": [
+        78,
+        42,
+        420,
+        24
+      ],
+      "geometry": "rect",
+      "text": "CURRENT PRACTICE",
+      "textPreview": "CURRENT PRACTICE",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "+mn-lt",
+        "color": "#2F7D4A",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "CURRENT PRACTICE"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "CURRENT PRACTICE",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "color": "#2F7D4A",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "CURRENT PRACTICE",
+              "fontSize": 14,
+              "color": "#2F7D4A",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ho36x8vm",
+      "id": "2",
+      "bbox": [
+        78,
+        78,
+        990,
+        58
+      ],
+      "geometry": "rect",
+      "text": "Existing System",
+      "textPreview": "Existing System",
+      "resolvedFontSize": 39,
+      "resolvedTextStyle": {
+        "fontSize": 39,
+        "typeface": "+mn-lt",
+        "color": "#101412",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Existing System"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Existing System",
+          "resolvedTextStyle": {
+            "fontSize": 39,
+            "color": "#101412",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Existing System",
+              "fontSize": 39,
+              "color": "#101412",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gnapo3e1",
+      "id": "3",
+      "bbox": [
+        78,
+        146,
+        1124,
+        2
+      ],
+      "geometry": "rect",
+      "fillColor": "#C8D3C5",
+      "lineColor": "#C8D3C5",
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3qlozydc",
+      "id": "4",
+      "bbox": [
+        78,
+        146,
+        154,
+        5
+      ],
+      "geometry": "rect",
+      "fillColor": "#2F7D4A",
+      "lineColor": "#2F7D4A",
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2pc7qdw7",
+      "id": "5",
+      "bbox": [
+        60,
+        192,
+        1160,
+        170
+      ],
+      "geometry": "rect",
+      "fillColor": "#F5F8F3",
+      "lineColor": "#C8D3C5",
+      "lineWidth": 1
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/pc3618vi",
+      "id": "6",
+      "bbox": [
+        78,
+        210,
+        1100,
+        136
+      ],
+      "geometry": "rect",
+      "text": "Existing smart farming systems commonly use sensors to measure soil moisture, temperature, humidity, pH, and other environmental variables. Some systems also use drone or satellite imagery to observe crop health over larger areas. These systems are useful because they reduce manual observation and provide farmers with more frequent information about field conditions.",
+      "textPreview": "Existing smart farming systems commonly use sensors to measure soil moisture, temperature, humidity, pH, and other environmental variable...",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "fontSize": 21,
+        "typeface": "+mn-lt",
+        "color": "#101412",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 4,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Existing smart farming systems commonly use sensors to measure soil moisture, temperature, humidity, pH, and"
+          },
+          {
+            "index": 2,
+            "text": "other environmental variables. Some systems also use drone or satellite imagery to observe crop health over larger"
+          },
+          {
+            "index": 3,
+            "text": "areas. These systems are useful because they reduce manual observation and provide farmers with more frequent"
+          },
+          {
+            "index": 4,
+            "text": "information about field conditions."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Existing smart farming systems commonly use sensors to measure soil moisture, temperature, humidity, pH, and other environmental variables. Some systems also use drone or satellite imagery to observe crop health over larger areas. These systems are useful because they reduce manual observation and provide farmers with more frequent information about field conditions.",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "color": "#101412"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Existing smart farming systems commonly use sensors to measure soil moisture, temperature, humidity, pH, and other environmental variables. Some systems also use drone or satellite imagery to observe crop health over larger areas. These systems are useful because they reduce manual observation and provide farmers with more frequent information about field conditions.",
+              "fontSize": 21,
+              "color": "#101412"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4rups3ex",
+      "id": "7",
+      "bbox": [
+        78,
+        378,
+        1100,
+        136
+      ],
+      "geometry": "rect",
+      "text": "Machine learning based systems are also widely used for crop disease detection, yield prediction, irrigation forecasting, and advisory support. Although these systems improve individual tasks, many of them operate separately. A sensor system may collect data without deep prediction, while a prediction model may work without a continuously updated field model. This separation limits the intelligence of the overall farming system.",
+      "textPreview": "Machine learning based systems are also widely used for crop disease detection, yield prediction, irrigation forecasting, and advisory su...",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "fontSize": 21,
+        "typeface": "+mn-lt",
+        "color": "#101412",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 4,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Machine learning based systems are also widely used for crop disease detection, yield prediction, irrigation"
+          },
+          {
+            "index": 2,
+            "text": "forecasting, and advisory support. Although these systems improve individual tasks, many of them operate"
+          },
+          {
+            "index": 3,
+            "text": "separately. A sensor system may collect data without deep prediction, while a prediction model may work without"
+          },
+          {
+            "index": 4,
+            "text": "a continuously updated field model. This separation limits the intelligence of the overall farming system."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Machine learning based systems are also widely used for crop disease detection, yield prediction, irrigation forecasting, and advisory support. Although these systems improve individual tasks, many of them operate separately. A sensor system may collect data without deep prediction, while a prediction model may work without a continuously updated field model. This separation limits the intelligence of the overall farming system.",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "color": "#101412"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Machine learning based systems are also widely used for crop disease detection, yield prediction, irrigation forecasting, and advisory support. Although these systems improve individual tasks, many of them operate separately. A sensor system may collect data without deep prediction, while a prediction model may work without a continuously updated field model. This separation limits the intelligence of the overall farming system.",
+              "fontSize": 21,
+              "color": "#101412"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/relo3ido",
+      "id": "8",
+      "bbox": [
+        880,
+        666,
+        322,
+        24
+      ],
+      "geometry": "rect",
+      "text": "Agro Twin Literature Review | 5",
+      "textPreview": "Agro Twin Literature Review | 5",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "+mn-lt",
+        "color": "#4F5C55",
+        "alignment": "right",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Agro Twin Literature Review | 5"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Agro Twin Literature Review | 5",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "color": "#4F5C55",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Agro Twin Literature Review | 5",
+              "fontSize": 14,
+              "color": "#4F5C55",
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

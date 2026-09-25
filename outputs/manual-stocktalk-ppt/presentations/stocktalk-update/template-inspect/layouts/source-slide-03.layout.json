@@ -1,0 +1,895 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/s72x4nap",
+    "id": "s72x4nap",
+    "slide": 4,
+    "layoutId": "/ppt/slideLayouts/slideLayout1.xml",
+    "layoutName": "DEFAULT",
+    "layoutType": "tx",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "backgroundColor": "#0F1629",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 960,
+      "height": 540
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Office Theme",
+    "colors": {
+      "accent1": "#4472C4",
+      "accent2": "#ED7D31",
+      "accent3": "#A5A5A5",
+      "accent4": "#FFC000",
+      "accent5": "#5B9BD5",
+      "accent6": "#70AD47",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#A7A7A7",
+      "lt2": "#535353",
+      "hlink": "#0000FF",
+      "folHlink": "#FF00FF"
+    },
+    "fontScheme": {
+      "name": "Office Theme",
+      "majorFont": {
+        "latinTypeface": "Helvetica",
+        "eastAsianTypeface": "Helvetica",
+        "complexScriptTypeface": "Helvetica"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri",
+        "eastAsianTypeface": "Calibri",
+        "complexScriptTypeface": "Calibri"
+      }
+    },
+    "typefaces": [
+      "Calibri",
+      "Helvetica"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout1.xml",
+      "name": "DEFAULT",
+      "type": "tx",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout1.xml/11",
+          "id": "11",
+          "name": "Slide Number",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "geometry": "rect"
+        }
+      ]
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "backgroundColor": "#FFFFFF",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/2",
+          "id": "2",
+          "name": "Title Text",
+          "bbox": [
+            143.83,
+            60.62,
+            768,
+            131.38
+          ],
+          "geometry": "rect",
+          "text": "Title Text",
+          "textPreview": "Title Text",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 4.8,
+              "bottom": 4.8,
+              "left": 4.8
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Title Text",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Title Text"
+                }
+              ]
+            }
+          ],
+          "lineWidth": 1.33
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/3",
+          "id": "3",
+          "name": "Body Level One…",
+          "bbox": [
+            535.83,
+            192,
+            376,
+            348
+          ],
+          "geometry": "rect",
+          "text": "Body Level One\nBody Level Two\nBody Level Three\nBody Level Four\nBody Level Five",
+          "textPreview": "Body Level One | Body Level Two | Body Level Three | Body Level Four | Body Level Five",
+          "resolvedTextStyle": {
+            "insets": {
+              "top": 4.8,
+              "right": 4.8,
+              "bottom": 4.8,
+              "left": 4.8
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Body Level One",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Body Level One"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "Body Level Two",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Body Level Two"
+                }
+              ]
+            },
+            {
+              "index": 3,
+              "text": "Body Level Three",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Body Level Three"
+                }
+              ]
+            },
+            {
+              "index": 4,
+              "text": "Body Level Four",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Body Level Four"
+                }
+              ]
+            },
+            {
+              "index": 5,
+              "text": "Body Level Five",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Body Level Five"
+                }
+              ]
+            }
+          ],
+          "lineWidth": 1.33
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/4",
+          "id": "4",
+          "name": "Slide Number",
+          "bbox": [
+            660.85,
+            487.47,
+            27.15,
+            26.07
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "verticalAlignment": "middle",
+            "wrap": "none",
+            "autoFit": "resizeShapeToFitText",
+            "insets": {
+              "top": 4.8,
+              "right": 4.8,
+              "bottom": 4.8,
+              "left": 4.8
+            }
+          },
+          "lineWidth": 1.33
+        }
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4zidonyd",
+      "id": "62",
+      "name": "Shape 0",
+      "bbox": [
+        0,
+        0,
+        960,
+        62.4
+      ],
+      "geometry": "rect",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "right",
+        "textTransform": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 4.8,
+          "bottom": 4.8,
+          "left": 4.8
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#0A0E1A",
+      "lineWidth": 1.33
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xkf6dcbu",
+      "id": "63",
+      "name": "Shape 1",
+      "bbox": [
+        0,
+        0,
+        6.72,
+        62.4
+      ],
+      "geometry": "rect",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "right",
+        "textTransform": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 4.8,
+          "bottom": 4.8,
+          "left": 4.8
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#00D4AA",
+      "lineWidth": 1.33
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mlkjm1cf",
+      "id": "64",
+      "name": "Text 2",
+      "bbox": [
+        24,
+        15.77,
+        768,
+        30.86
+      ],
+      "geometry": "rect",
+      "text": "Introduction",
+      "textPreview": "Introduction",
+      "resolvedFontSize": 29.33,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 29.33,
+        "typeface": "Calibri",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "right",
+        "verticalAlignment": "middle",
+        "textTransform": "none",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Introduction"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Introduction",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Introduction"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0,
+          "indent": 0,
+          "lineSpacingPercent": 100000,
+          "spaceBefore": 0,
+          "spaceAfter": 0
+        }
+      ],
+      "lineWidth": 1.33
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/f6dcbulw",
+      "id": "65",
+      "name": "Text 3",
+      "bbox": [
+        792,
+        21.83,
+        153.6,
+        21.62
+      ],
+      "geometry": "rect",
+      "text": "Stock Talk",
+      "textPreview": "Stock Talk",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 12,
+        "typeface": "Calibri",
+        "color": "#00D4AA",
+        "italic": true,
+        "alignment": "right",
+        "verticalAlignment": "middle",
+        "textTransform": "none",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 4.8,
+          "bottom": 4.8,
+          "left": 4.8
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Stock Talk"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Stock Talk",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Stock Talk"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0,
+          "indent": 0,
+          "lineSpacingPercent": 100000,
+          "spaceBefore": 0,
+          "spaceAfter": 0
+        }
+      ],
+      "lineWidth": 1.33
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4r65wjud",
+      "id": "66",
+      "name": "Shape 4",
+      "bbox": [
+        0,
+        62.4,
+        960,
+        0
+      ],
+      "geometry": "line",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "right",
+        "textTransform": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 4.8,
+          "bottom": 4.8,
+          "left": 4.8
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "lineColor": "#1A2540",
+      "lineWidth": 0.67
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xc3ylc7u",
+      "id": "67",
+      "name": "Shape 11",
+      "bbox": [
+        0,
+        499.2,
+        960,
+        0
+      ],
+      "geometry": "line",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "right",
+        "textTransform": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 4.8,
+          "bottom": 4.8,
+          "left": 4.8
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "lineColor": "#1A2540",
+      "lineWidth": 0.67
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/m94fu18j",
+      "id": "68",
+      "name": "* Stock market analysis is important for making informed investment and financial decisions.…",
+      "bbox": [
+        34.13,
+        90.08,
+        864.85,
+        400.27
+      ],
+      "geometry": "rect",
+      "text": "* Stock market analysis is important for making informed investment and financial decisions.\n* Traditional stock analysis methods often require knowledge of programming, APIs, and data visualization tools.\n* These technical requirements make stock analysis difficult for students, beginner investors, and non-technical users.\n* Understanding market trends and stock performance can be challenging without specialized skills.\n* Recent advancements in Artificial Intelligence (AI) and Large Language Models (LLMs) have simplified data interaction through natural language.\n* Users can now ask questions in plain English instead of writing complex code.\n* This project presents an AI-powered financial analysis system for stock market analysis.\n* The system retrieves real-time stock market data and processes user queries intelligently.\n* It automatically generates insights, trends, and visualizations based on the requested stock information.\n* The platform makes financial analysis more accessible, interactive, and user-friendly.\n* It helps users make better financial decisions without requiring technical expertise.\n* The project bridges the gap between advanced financial analytics and everyday users through AI-driven automation.",
+      "textPreview": "* Stock market analysis is important for making informed investment and financial decisions. | * Traditional stock analysis methods often...",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "right",
+        "textTransform": "none",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 4.8,
+          "bottom": 4.8,
+          "left": 4.8
+        }
+      },
+      "textLayout": {
+        "lineCount": 17,
+        "lines": [
+          {
+            "index": 1,
+            "text": "* Stock market analysis is important for making informed investment and financial decisions."
+          },
+          {
+            "index": 2,
+            "text": "* Traditional stock analysis methods often require knowledge of programming, APIs, and data"
+          },
+          {
+            "index": 3,
+            "text": "visualization tools."
+          },
+          {
+            "index": 4,
+            "text": "* These technical requirements make stock analysis difficult for students, beginner investors, and"
+          },
+          {
+            "index": 5,
+            "text": "non-technical users."
+          },
+          {
+            "index": 6,
+            "text": "* Understanding market trends and stock performance can be challenging without specialized skills."
+          },
+          {
+            "index": 7,
+            "text": "* Recent advancements in Artificial Intelligence (AI) and Large Language Models (LLMs) have"
+          },
+          {
+            "index": 8,
+            "text": "simplified data interaction through natural language."
+          },
+          {
+            "index": 9,
+            "text": "* Users can now ask questions in plain English instead of writing complex code."
+          },
+          {
+            "index": 10,
+            "text": "* This project presents an AI-powered financial analysis system for stock market analysis."
+          },
+          {
+            "index": 11,
+            "text": "* The system retrieves real-time stock market data and processes user queries intelligently."
+          },
+          {
+            "index": 12,
+            "text": "* It automatically generates insights, trends, and visualizations based on the requested stock"
+          },
+          {
+            "index": 13,
+            "text": "information."
+          },
+          {
+            "index": 14,
+            "text": "* The platform makes financial analysis more accessible, interactive, and user-friendly."
+          },
+          {
+            "index": 15,
+            "text": "* It helps users make better financial decisions without requiring technical expertise."
+          },
+          {
+            "index": 16,
+            "text": "* The project bridges the gap between advanced financial analytics and everyday users through"
+          },
+          {
+            "index": 17,
+            "text": "AI-driven automation."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "* Stock market analysis is important for making informed investment and financial decisions.",
+          "resolvedTextStyle": {
+            "fontSize": 18.67,
+            "color": "#FFFFFF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "* Stock market analysis is important for making informed investment and financial decisions.",
+              "fontSize": 18.67,
+              "color": "#FFFFFF"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0,
+          "indent": 0,
+          "lineSpacingPercent": 100000,
+          "spaceBefore": 0,
+          "spaceAfter": 0
+        },
+        {
+          "index": 2,
+          "text": "* Traditional stock analysis methods often require knowledge of programming, APIs, and data visualization tools.",
+          "resolvedTextStyle": {
+            "fontSize": 18.67,
+            "color": "#FFFFFF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "* Traditional stock analysis methods often require knowledge of programming, APIs, and data visualization tools.",
+              "fontSize": 18.67,
+              "color": "#FFFFFF"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0,
+          "indent": 0,
+          "lineSpacingPercent": 100000,
+          "spaceBefore": 0,
+          "spaceAfter": 0
+        },
+        {
+          "index": 3,
+          "text": "* These technical requirements make stock analysis difficult for students, beginner investors, and non-technical users.",
+          "resolvedTextStyle": {
+            "fontSize": 18.67,
+            "color": "#FFFFFF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "* These technical requirements make stock analysis difficult for students, beginner investors, and non-technical users.",
+              "fontSize": 18.67,
+              "color": "#FFFFFF"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0,
+          "indent": 0,
+          "lineSpacingPercent": 100000,
+          "spaceBefore": 0,
+          "spaceAfter": 0
+        },
+        {
+          "index": 4,
+          "text": "* Understanding market trends and stock performance can be challenging without specialized skills.",
+          "resolvedTextStyle": {
+            "fontSize": 18.67,
+            "color": "#FFFFFF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "* Understanding market trends and stock performance can be challenging without specialized skills.",
+              "fontSize": 18.67,
+              "color": "#FFFFFF"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0,
+          "indent": 0,
+          "lineSpacingPercent": 100000,
+          "spaceBefore": 0,
+          "spaceAfter": 0
+        },
+        {
+          "index": 5,
+          "text": "* Recent advancements in Artificial Intelligence (AI) and Large Language Models (LLMs) have simplified data interaction through natural language.",
+          "resolvedTextStyle": {
+            "fontSize": 18.67,
+            "color": "#FFFFFF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "* Recent advancements in Artificial Intelligence (AI) and Large Language Models (LLMs) have simplified data interaction through natural language.",
+              "fontSize": 18.67,
+              "color": "#FFFFFF"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0,
+          "indent": 0,
+          "lineSpacingPercent": 100000,
+          "spaceBefore": 0,
+          "spaceAfter": 0
+        },
+        {
+          "index": 6,
+          "text": "* Users can now ask questions in plain English instead of writing complex code.",
+          "resolvedTextStyle": {
+            "fontSize": 18.67,
+            "color": "#FFFFFF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "* Users can now ask questions in plain English instead of writing complex code.",
+              "fontSize": 18.67,
+              "color": "#FFFFFF"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0,
+          "indent": 0,
+          "lineSpacingPercent": 100000,
+          "spaceBefore": 0,
+          "spaceAfter": 0
+        },
+        {
+          "index": 7,
+          "text": "* This project presents an AI-powered financial analysis system for stock market analysis.",
+          "resolvedTextStyle": {
+            "fontSize": 18.67,
+            "color": "#FFFFFF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "* This project presents an AI-powered financial analysis system for stock market analysis.",
+              "fontSize": 18.67,
+              "color": "#FFFFFF"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0,
+          "indent": 0,
+          "lineSpacingPercent": 100000,
+          "spaceBefore": 0,
+          "spaceAfter": 0
+        },
+        {
+          "index": 8,
+          "text": "* The system retrieves real-time stock market data and processes user queries intelligently.",
+          "resolvedTextStyle": {
+            "fontSize": 18.67,
+            "color": "#FFFFFF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "* The system retrieves real-time stock market data and processes user queries intelligently.",
+              "fontSize": 18.67,
+              "color": "#FFFFFF"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0,
+          "indent": 0,
+          "lineSpacingPercent": 100000,
+          "spaceBefore": 0,
+          "spaceAfter": 0
+        },
+        {
+          "index": 9,
+          "text": "* It automatically generates insights, trends, and visualizations based on the requested stock information.",
+          "resolvedTextStyle": {
+            "fontSize": 18.67,
+            "color": "#FFFFFF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "* It automatically generates insights, trends, and visualizations based on the requested stock information.",
+              "fontSize": 18.67,
+              "color": "#FFFFFF"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0,
+          "indent": 0,
+          "lineSpacingPercent": 100000,
+          "spaceBefore": 0,
+          "spaceAfter": 0
+        },
+        {
+          "index": 10,
+          "text": "* The platform makes financial analysis more accessible, interactive, and user-friendly.",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "color": "#FFFFFF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "* The platform makes financial analysis more accessible, interactive, and user-friendly.",
+              "fontSize": 20,
+              "color": "#FFFFFF"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0,
+          "indent": 0,
+          "lineSpacingPercent": 100000,
+          "spaceBefore": 0,
+          "spaceAfter": 0
+        },
+        {
+          "index": 11,
+          "text": "* It helps users make better financial decisions without requiring technical expertise.",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "color": "#FFFFFF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "* It helps users make better financial decisions without requiring technical expertise.",
+              "fontSize": 20,
+              "color": "#FFFFFF"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0,
+          "indent": 0,
+          "lineSpacingPercent": 100000,
+          "spaceBefore": 0,
+          "spaceAfter": 0
+        },
+        {
+          "index": 12,
+          "text": "* The project bridges the gap between advanced financial analytics and everyday users through AI-driven automation.",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "color": "#FFFFFF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "* The project bridges the gap between advanced financial analytics and everyday users through AI-driven automation.",
+              "fontSize": 20,
+              "color": "#FFFFFF"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0,
+          "indent": 0,
+          "lineSpacingPercent": 100000,
+          "spaceBefore": 0,
+          "spaceAfter": 0
+        }
+      ],
+      "lineWidth": 1.33
+    }
+  ],
+  "composeRuns": []
+}

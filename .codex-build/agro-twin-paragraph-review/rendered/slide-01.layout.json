@@ -1,0 +1,474 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/kwup3m",
+    "id": "kwup3m",
+    "slide": 1,
+    "layoutId": "e7ce5c82-279e-4cda-8347-23bcdecb3ebf",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "618b8f80-40fd-4d62-a55d-9d2784335e3e",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "+mn-lt"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "e7ce5c82-279e-4cda-8347-23bcdecb3ebf",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "618b8f80-40fd-4d62-a55d-9d2784335e3e",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "618b8f80-40fd-4d62-a55d-9d2784335e3e",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7it4jahs",
+      "id": "1",
+      "bbox": [
+        78,
+        42,
+        420,
+        24
+      ],
+      "geometry": "rect",
+      "text": "TITLE",
+      "textPreview": "TITLE",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "+mn-lt",
+        "color": "#2F7D4A",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "TITLE"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "TITLE",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "color": "#2F7D4A",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "TITLE",
+              "fontSize": 14,
+              "color": "#2F7D4A",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8j2lcvyd",
+      "id": "2",
+      "bbox": [
+        78,
+        104,
+        990,
+        72
+      ],
+      "geometry": "rect",
+      "text": "Agro Twin",
+      "textPreview": "Agro Twin",
+      "resolvedFontSize": 58,
+      "resolvedTextStyle": {
+        "fontSize": 58,
+        "typeface": "+mn-lt",
+        "color": "#101412",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Agro Twin"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Agro Twin",
+          "resolvedTextStyle": {
+            "fontSize": 58,
+            "color": "#101412",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Agro Twin",
+              "fontSize": 58,
+              "color": "#101412",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9kbml0zy",
+      "id": "3",
+      "bbox": [
+        78,
+        180,
+        720,
+        48
+      ],
+      "geometry": "rect",
+      "text": "Literature Review",
+      "textPreview": "Literature Review",
+      "resolvedFontSize": 35,
+      "resolvedTextStyle": {
+        "fontSize": 35,
+        "typeface": "+mn-lt",
+        "color": "#2F7D4A",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Literature Review"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Literature Review",
+          "resolvedTextStyle": {
+            "fontSize": 35,
+            "color": "#2F7D4A",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Literature Review",
+              "fontSize": 35,
+              "color": "#2F7D4A",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/yd036lgb",
+      "id": "4",
+      "bbox": [
+        78,
+        254,
+        1124,
+        2
+      ],
+      "geometry": "rect",
+      "fillColor": "#C8D3C5",
+      "lineColor": "#C8D3C5",
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zetkfqhg",
+      "id": "5",
+      "bbox": [
+        78,
+        254,
+        154,
+        5
+      ],
+      "geometry": "rect",
+      "fillColor": "#2F7D4A",
+      "lineColor": "#2F7D4A",
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kf2l8vy1",
+      "id": "6",
+      "bbox": [
+        78,
+        302,
+        1100,
+        116
+      ],
+      "geometry": "rect",
+      "text": "Agro Twin is a proposed digital twin based smart agriculture system. The project studies how a virtual representation of an agricultural field can be connected with real field data, crop observations, weather information, and prediction models to support better farming decisions.",
+      "textPreview": "Agro Twin is a proposed digital twin based smart agriculture system. The project studies how a virtual representation of an agricultural ...",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "fontSize": 22,
+        "typeface": "+mn-lt",
+        "color": "#101412",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Agro Twin is a proposed digital twin based smart agriculture system. The project studies how a virtual"
+          },
+          {
+            "index": 2,
+            "text": "representation of an agricultural field can be connected with real field data, crop observations, weather"
+          },
+          {
+            "index": 3,
+            "text": "information, and prediction models to support better farming decisions."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Agro Twin is a proposed digital twin based smart agriculture system. The project studies how a virtual representation of an agricultural field can be connected with real field data, crop observations, weather information, and prediction models to support better farming decisions.",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "color": "#101412"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Agro Twin is a proposed digital twin based smart agriculture system. The project studies how a virtual representation of an agricultural field can be connected with real field data, crop observations, weather information, and prediction models to support better farming decisions.",
+              "fontSize": 22,
+              "color": "#101412"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lgb2h0zm",
+      "id": "7",
+      "bbox": [
+        78,
+        448,
+        1100,
+        116
+      ],
+      "geometry": "rect",
+      "text": "This literature review examines existing work in Internet of Things based smart farming, machine learning in agriculture, big-data driven farm management, and agricultural digital twins. The review is used to identify the research gap and justify the need for the proposed Agro Twin system.",
+      "textPreview": "This literature review examines existing work in Internet of Things based smart farming, machine learning in agriculture, big-data driven...",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "fontSize": 22,
+        "typeface": "+mn-lt",
+        "color": "#101412",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "This literature review examines existing work in Internet of Things based smart farming, machine learning in"
+          },
+          {
+            "index": 2,
+            "text": "agriculture, big-data driven farm management, and agricultural digital twins. The review is used to identify the"
+          },
+          {
+            "index": 3,
+            "text": "research gap and justify the need for the proposed Agro Twin system."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "This literature review examines existing work in Internet of Things based smart farming, machine learning in agriculture, big-data driven farm management, and agricultural digital twins. The review is used to identify the research gap and justify the need for the proposed Agro Twin system.",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "color": "#101412"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "This literature review examines existing work in Internet of Things based smart farming, machine learning in agriculture, big-data driven farm management, and agricultural digital twins. The review is used to identify the research gap and justify the need for the proposed Agro Twin system.",
+              "fontSize": 22,
+              "color": "#101412"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/q9032l0z",
+      "id": "8",
+      "bbox": [
+        880,
+        666,
+        322,
+        24
+      ],
+      "geometry": "rect",
+      "text": "Agro Twin Literature Review | 1",
+      "textPreview": "Agro Twin Literature Review | 1",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "+mn-lt",
+        "color": "#4F5C55",
+        "alignment": "right",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Agro Twin Literature Review | 1"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Agro Twin Literature Review | 1",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "color": "#4F5C55",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Agro Twin Literature Review | 1",
+              "fontSize": 14,
+              "color": "#4F5C55",
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

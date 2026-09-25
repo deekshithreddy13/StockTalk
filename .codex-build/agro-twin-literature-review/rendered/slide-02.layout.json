@@ -1,0 +1,563 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/jqtx2y",
+    "id": "jqtx2y",
+    "slide": 2,
+    "layoutId": "28a17215-cbab-4a23-9791-b24616bf6510",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "0548c327-ca15-476f-9a30-4a54501f8635",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "+mn-lt"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "28a17215-cbab-4a23-9791-b24616bf6510",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "0548c327-ca15-476f-9a30-4a54501f8635",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "0548c327-ca15-476f-9a30-4a54501f8635",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/yd8zetkj",
+      "id": "1",
+      "bbox": [
+        72,
+        34,
+        300,
+        24
+      ],
+      "geometry": "rect",
+      "text": "LITERATURE REVIEW",
+      "textPreview": "LITERATURE REVIEW",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "fontSize": 13,
+        "typeface": "+mn-lt",
+        "color": "#2F7D4A",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "LITERATURE REVIEW"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "LITERATURE REVIEW",
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "color": "#2F7D4A",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "LITERATURE REVIEW",
+              "fontSize": 13,
+              "color": "#2F7D4A",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/l0zyp83u",
+      "id": "2",
+      "bbox": [
+        72,
+        72,
+        1000,
+        88
+      ],
+      "geometry": "rect",
+      "text": "Abstract: Agro Twin connects farm data to decisions",
+      "textPreview": "Abstract: Agro Twin connects farm data to decisions",
+      "resolvedFontSize": 37,
+      "resolvedTextStyle": {
+        "fontSize": 37,
+        "typeface": "+mn-lt",
+        "color": "#0B0F0E",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Abstract: Agro Twin connects farm data to decisions"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Abstract: Agro Twin connects farm data to decisions",
+          "resolvedTextStyle": {
+            "fontSize": 37,
+            "color": "#0B0F0E",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Abstract: Agro Twin connects farm data to decisions",
+              "fontSize": 37,
+              "color": "#0B0F0E",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kzqhg32p",
+      "id": "3",
+      "bbox": [
+        72,
+        158,
+        114,
+        5
+      ],
+      "geometry": "rect",
+      "fillColor": "#2F7D4A",
+      "lineColor": "#2F7D4A",
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/72hgryl0",
+      "id": "4",
+      "bbox": [
+        92,
+        218,
+        1030,
+        92
+      ],
+      "geometry": "rect",
+      "text": "Agro Twin is proposed as a digital representation of an agricultural field that continuously receives data from sensors, weather inputs, and crop observations.",
+      "textPreview": "Agro Twin is proposed as a digital representation of an agricultural field that continuously receives data from sensors, weather inputs, ...",
+      "resolvedFontSize": 26,
+      "resolvedTextStyle": {
+        "fontSize": 26,
+        "typeface": "+mn-lt",
+        "color": "#0B0F0E",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Agro Twin is proposed as a digital representation of an agricultural field that"
+          },
+          {
+            "index": 2,
+            "text": "continuously receives data from sensors, weather inputs, and crop observations."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Agro Twin is proposed as a digital representation of an agricultural field that continuously receives data from sensors, weather inputs, and crop observations.",
+          "resolvedTextStyle": {
+            "fontSize": 26,
+            "color": "#0B0F0E"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Agro Twin is proposed as a digital representation of an agricultural field that continuously receives data from sensors, weather inputs, and crop observations.",
+              "fontSize": 26,
+              "color": "#0B0F0E"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/618zitkf",
+      "id": "5",
+      "bbox": [
+        118,
+        359,
+        10,
+        10
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#2F7D4A",
+      "lineColor": "#2F7D4A",
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/t4jyt836",
+      "id": "6",
+      "bbox": [
+        146,
+        352,
+        972,
+        54
+      ],
+      "geometry": "rect",
+      "text": "The review studies IoT sensing, big-data analytics, machine learning, and agricultural digital twins.",
+      "textPreview": "The review studies IoT sensing, big-data analytics, machine learning, and agricultural digital twins.",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "fontSize": 22,
+        "typeface": "+mn-lt",
+        "color": "#0B0F0E",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "The review studies IoT sensing, big-data analytics, machine learning, and agricultural digital"
+          },
+          {
+            "index": 2,
+            "text": "twins."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "The review studies IoT sensing, big-data analytics, machine learning, and agricultural digital twins.",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "color": "#0B0F0E"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "The review studies IoT sensing, big-data analytics, machine learning, and agricultural digital twins.",
+              "fontSize": 22,
+              "color": "#0B0F0E"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/83ahk32l",
+      "id": "7",
+      "bbox": [
+        118,
+        415,
+        10,
+        10
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#2F7D4A",
+      "lineColor": "#2F7D4A",
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/n6xgfelw",
+      "id": "8",
+      "bbox": [
+        146,
+        408,
+        972,
+        54
+      ],
+      "geometry": "rect",
+      "text": "Existing work shows strong progress in monitoring and prediction, but weaker integration across full farm decision cycles.",
+      "textPreview": "Existing work shows strong progress in monitoring and prediction, but weaker integration across full farm decision cycles.",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "fontSize": 22,
+        "typeface": "+mn-lt",
+        "color": "#0B0F0E",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Existing work shows strong progress in monitoring and prediction, but weaker integration across"
+          },
+          {
+            "index": 2,
+            "text": "full farm decision cycles."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Existing work shows strong progress in monitoring and prediction, but weaker integration across full farm decision cycles.",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "color": "#0B0F0E"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Existing work shows strong progress in monitoring and prediction, but weaker integration across full farm decision cycles.",
+              "fontSize": 22,
+              "color": "#0B0F0E"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/m5of69kb",
+      "id": "9",
+      "bbox": [
+        118,
+        471,
+        10,
+        10
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#2F7D4A",
+      "lineColor": "#2F7D4A",
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0nqtw325",
+      "id": "10",
+      "bbox": [
+        146,
+        464,
+        972,
+        54
+      ],
+      "geometry": "rect",
+      "text": "The proposed system focuses on real-time crop condition tracking, risk prediction, and farmer-friendly recommendations.",
+      "textPreview": "The proposed system focuses on real-time crop condition tracking, risk prediction, and farmer-friendly recommendations.",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "fontSize": 22,
+        "typeface": "+mn-lt",
+        "color": "#0B0F0E",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "The proposed system focuses on real-time crop condition tracking, risk prediction, and"
+          },
+          {
+            "index": 2,
+            "text": "farmer-friendly recommendations."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "The proposed system focuses on real-time crop condition tracking, risk prediction, and farmer-friendly recommendations.",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "color": "#0B0F0E"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "The proposed system focuses on real-time crop condition tracking, risk prediction, and farmer-friendly recommendations.",
+              "fontSize": 22,
+              "color": "#0B0F0E"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lozap83q",
+      "id": "11",
+      "bbox": [
+        1078,
+        668,
+        130,
+        22
+      ],
+      "geometry": "rect",
+      "text": "Agro Twin | 2",
+      "textPreview": "Agro Twin | 2",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "fontSize": 13,
+        "typeface": "+mn-lt",
+        "color": "#59645F",
+        "alignment": "right",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Agro Twin | 2"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Agro Twin | 2",
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "color": "#59645F",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Agro Twin | 2",
+              "fontSize": 13,
+              "color": "#59645F",
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}
